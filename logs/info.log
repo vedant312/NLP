@@ -1,0 +1,3088 @@
+Paragraph 4: 
+Location candidate set:  set()
+[INFO] Paragraph 4: gold location "sediment" not included in candidate set.
+[INFO] Paragraph 4: gold location "one mile underground" not included in candidate set.
+[INFO] Paragraph 4: gold location "underground" not included in candidate set.
+Paragraph 5: 
+Location candidate set:  set()
+[INFO] Paragraph 5: gold location "seafloor" not included in candidate set.
+[INFO] Paragraph 5: gold location "rock" not included in candidate set.
+Paragraph 272: 
+Location candidate set:  set()
+[INFO] Paragraph 272: gold location "generator" not included in candidate set.
+[INFO] Paragraph 272: gold location "wire" not included in candidate set.
+[INFO] Paragraph 272: gold location "near a wire" not included in candidate set.
+Paragraph 349: 
+Location candidate set:  set()
+[INFO] Paragraph 349: gold location "object" not included in candidate set.
+Paragraph 375: 
+Location candidate set:  set()
+[INFO] Paragraph 375: gold location "computer" not included in candidate set.
+[INFO] Paragraph 375: gold location "hard drive , dvd drive or fan" not included in candidate set.
+Paragraph 388: 
+Location candidate set:  set()
+[INFO] Paragraph 388: gold location "dam" not included in candidate set.
+[INFO] Paragraph 388: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 388: gold location "power plant" not included in candidate set.
+[INFO] Paragraph 388: gold location "generator" not included in candidate set.
+Paragraph 390: 
+Location candidate set:  set()
+[INFO] Paragraph 390: gold location "reservoir" not included in candidate set.
+[INFO] Paragraph 390: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 390: gold location "generator" not included in candidate set.
+[INFO] Paragraph 390: gold location "transformer" not included in candidate set.
+[INFO] Paragraph 390: gold location "power line" not included in candidate set.
+Paragraph 394: 
+Location candidate set:  set()
+[INFO] Paragraph 394: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 394: gold location "generator" not included in candidate set.
+[INFO] Paragraph 394: gold location "transformer" not included in candidate set.
+Paragraph 396: 
+Location candidate set:  set()
+[INFO] Paragraph 396: gold location "nuclear reactor" not included in candidate set.
+[INFO] Paragraph 396: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 396: gold location "generator" not included in candidate set.
+Paragraph 430: 
+Location candidate set:  set()
+[INFO] Paragraph 430: gold location "house" not included in candidate set.
+[INFO] Paragraph 430: gold location "curbside" not included in candidate set.
+[INFO] Paragraph 430: gold location "truck" not included in candidate set.
+[INFO] Paragraph 430: gold location "landfill" not included in candidate set.
+Paragraph 431: 
+Location candidate set:  set()
+[INFO] Paragraph 431: gold location "trashbag" not included in candidate set.
+[INFO] Paragraph 431: gold location "trashcan" not included in candidate set.
+[INFO] Paragraph 431: gold location "trash truck" not included in candidate set.
+[INFO] Paragraph 431: gold location "landfill" not included in candidate set.
+[WARNING] Paragraph 431: location "house" is not a span in paragraph.
+[INFO] Paragraph 431: gold location "house" not included in candidate set.
+[WARNING] Paragraph 431: location "house" is not a span in paragraph.
+[WARNING] Paragraph 431: location "house" is not a span in paragraph.
+Paragraph 432: 
+Location candidate set:  set()
+[INFO] Paragraph 432: gold location "can or bag" not included in candidate set.
+[INFO] Paragraph 432: gold location "truck" not included in candidate set.
+[INFO] Paragraph 432: gold location "sort center" not included in candidate set.
+[INFO] Paragraph 432: gold location "landfill" not included in candidate set.
+[WARNING] Paragraph 432: location "can or bag" is not a span in paragraph.
+[INFO] Paragraph 432: gold location "outside of the house" not included in candidate set.
+[WARNING] Paragraph 432: location "can or bag" is not a span in paragraph.
+Paragraph 445: 
+Location candidate set:  set()
+[INFO] Paragraph 445: gold location "volcano" not included in candidate set.
+Paragraph 446: 
+Location candidate set:  set()
+[INFO] Paragraph 446: gold location "volcano" not included in candidate set.
+[INFO] Paragraph 446: gold location "igneous rock" not included in candidate set.
+[INFO] Paragraph 446: gold location "sedimentary rock" not included in candidate set.
+Paragraph 509: 
+Location candidate set:  set()
+[INFO] Paragraph 509: gold location "fuel" not included in candidate set.
+[INFO] Paragraph 509: gold location "chamber" not included in candidate set.
+[INFO] Paragraph 509: gold location "upward" not included in candidate set.
+[INFO] Paragraph 509: gold location "downward" not included in candidate set.
+[WARNING] Paragraph 509: location "upward" is not a span in paragraph.
+Paragraph 514: 
+Location candidate set:  set()
+[INFO] Paragraph 514: gold location "area" not included in candidate set.
+Paragraph 542: 
+Location candidate set:  set()
+[INFO] Paragraph 542: gold location "blood" not included in candidate set.
+[INFO] Paragraph 542: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 542: gold location "urine" not included in candidate set.
+[INFO] Paragraph 542: gold location "bladder" not included in candidate set.
+Paragraph 543: 
+Location candidate set:  set()
+[INFO] Paragraph 543: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 543: gold location "blood" not included in candidate set.
+[INFO] Paragraph 543: gold location "ureter" not included in candidate set.
+[INFO] Paragraph 543: gold location "bladder" not included in candidate set.
+[INFO] Paragraph 543: gold location "body" not included in candidate set.
+Paragraph 544: 
+Location candidate set:  set()
+[INFO] Paragraph 544: gold location "kidney" not included in candidate set.
+[WARNING] Paragraph 544: location "kidney" is not a span in paragraph.
+[WARNING] Paragraph 544: location "kidney" is not a span in paragraph.
+[WARNING] Paragraph 544: location "kidney" is not a span in paragraph.
+[WARNING] Paragraph 544: location "kidney" is not a span in paragraph.
+[INFO] Paragraph 544: gold location "fluid" not included in candidate set.
+[WARNING] Paragraph 544: location "kidney" is not a span in paragraph.
+[WARNING] Paragraph 544: location "kidney" is not a span in paragraph.
+Paragraph 608: 
+Location candidate set:  set()
+[INFO] Paragraph 608: gold location "engine" not included in candidate set.
+Paragraph 609: 
+Location candidate set:  set()
+[INFO] Paragraph 609: gold location "engine" not included in candidate set.
+[INFO] Paragraph 609: gold location "cylinder" not included in candidate set.
+[INFO] Paragraph 609: gold location "tailpipe" not included in candidate set.
+Paragraph 610: 
+Location candidate set:  set()
+[INFO] Paragraph 610: gold location "combustion chamber" not included in candidate set.
+[INFO] Paragraph 610: gold location "cylinder" not included in candidate set.
+Paragraph 629: 
+Location candidate set:  set()
+[INFO] Paragraph 629: gold location "plastic bag" not included in candidate set.
+[INFO] Paragraph 629: gold location "landfill" not included in candidate set.
+[INFO] Paragraph 629: gold location "garbage can" not included in candidate set.
+[INFO] Paragraph 629: gold location "truck" not included in candidate set.
+[INFO] Paragraph 629: gold location "outside" not included in candidate set.
+[INFO] Paragraph 629: gold location "house" not included in candidate set.
+Paragraph 630: 
+Location candidate set:  set()
+[INFO] Paragraph 630: gold location "garbage container" not included in candidate set.
+[INFO] Paragraph 630: gold location "centralize container" not included in candidate set.
+[INFO] Paragraph 630: gold location "truck" not included in candidate set.
+[INFO] Paragraph 630: gold location "landfill" not included in candidate set.
+[WARNING] Paragraph 630: location "centralize container" is not a span in paragraph.
+Paragraph 631: 
+Location candidate set:  set()
+[INFO] Paragraph 631: gold location "bag" not included in candidate set.
+[INFO] Paragraph 631: gold location "trashcan" not included in candidate set.
+[INFO] Paragraph 631: gold location "trash truck" not included in candidate set.
+[INFO] Paragraph 631: gold location "landfill" not included in candidate set.
+[INFO] Paragraph 631: gold location "curb" not included in candidate set.
+Paragraph 632: 
+Location candidate set:  set()
+[INFO] Paragraph 632: gold location "computer" not included in candidate set.
+[INFO] Paragraph 632: gold location "component" not included in candidate set.
+[INFO] Paragraph 632: gold location "fan" not included in candidate set.
+[INFO] Paragraph 632: gold location "display" not included in candidate set.
+[INFO] Paragraph 632: gold location "electricity" not included in candidate set.
+Paragraph 634: 
+Location candidate set:  set()
+[INFO] Paragraph 634: gold location "power supply unit" not included in candidate set.
+[INFO] Paragraph 634: gold location "transistor" not included in candidate set.
+[INFO] Paragraph 634: gold location "cpu" not included in candidate set.
+Paragraph 1002: 
+Location candidate set:  set()
+[INFO] Paragraph 1002: gold location "wash machine" not included in candidate set.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+[WARNING] Paragraph 1002: location "wash machine" is not a span in paragraph.
+Paragraph 1007: 
+Location candidate set:  set()
+[INFO] Paragraph 1007: gold location "dead plant" not included in candidate set.
+[INFO] Paragraph 1007: gold location "soil" not included in candidate set.
+Paragraph 1008: 
+Location candidate set:  set()
+[INFO] Paragraph 1008: gold location "ground" not included in candidate set.
+[INFO] Paragraph 1008: gold location "plant material" not included in candidate set.
+[INFO] Paragraph 1008: gold location "bacterium" not included in candidate set.
+[WARNING] Paragraph 1008: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 1008: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 1008: location "bacterium" is not a span in paragraph.
+[INFO] Paragraph 1008: gold location "plant" not included in candidate set.
+Paragraph 1112: 
+Location candidate set:  set()
+[INFO] Paragraph 1112: gold location "air" not included in candidate set.
+[INFO] Paragraph 1112: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1112: gold location "cave" not included in candidate set.
+[INFO] Paragraph 1112: gold location "limestone" not included in candidate set.
+Paragraph 1113: 
+Location candidate set:  set()
+[INFO] Paragraph 1113: gold location "air" not included in candidate set.
+[INFO] Paragraph 1113: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1113: gold location "limestone" not included in candidate set.
+[INFO] Paragraph 1113: gold location "rainwater" not included in candidate set.
+Paragraph 1114: 
+Location candidate set:  set()
+[INFO] Paragraph 1114: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1114: gold location "bedrock" not included in candidate set.
+[INFO] Paragraph 1114: gold location "below" not included in candidate set.
+[INFO] Paragraph 1114: gold location "funnel" not included in candidate set.
+Paragraph 1197: 
+Location candidate set:  set()
+[INFO] Paragraph 1197: gold location "mouth" not included in candidate set.
+[INFO] Paragraph 1197: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 1197: gold location "small intestine" not included in candidate set.
+[WARNING] Paragraph 1197: entity "broken down food" is not a span in paragraph.
+[INFO] Paragraph 1197: gold location "blood" not included in candidate set.
+[INFO] Paragraph 1197: gold location "body" not included in candidate set.
+[INFO] Paragraph 1197: gold location "muscle" not included in candidate set.
+Paragraph 1226: 
+Location candidate set:  set()
+[INFO] Paragraph 1226: gold location "gut" not included in candidate set.
+[INFO] Paragraph 1226: gold location "pancrea" not included in candidate set.
+[WARNING] Paragraph 1226: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 1226: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 1226: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 1226: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 1226: location "pancrea" is not a span in paragraph.
+[INFO] Paragraph 1226: gold location "food" not included in candidate set.
+Paragraph 1259: 
+Location candidate set:  set()
+[INFO] Paragraph 1259: gold location "gland" not included in candidate set.
+[INFO] Paragraph 1259: gold location "several point" not included in candidate set.
+[INFO] Paragraph 1259: gold location "web" not included in candidate set.
+[INFO] Paragraph 1259: gold location "suitable place" not included in candidate set.
+Paragraph 1303: 
+Location candidate set:  set()
+[INFO] Paragraph 1303: gold location "food or milk" not included in candidate set.
+Paragraph 708: 
+Location candidate set:  set()
+[INFO] Paragraph 708: gold location "surface" not included in candidate set.
+[INFO] Paragraph 708: gold location "bury" not included in candidate set.
+Paragraph 716: 
+Location candidate set:  set()
+[INFO] Paragraph 716: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 716: gold location "body" not included in candidate set.
+Paragraph 758: 
+Location candidate set:  set()
+[INFO] Paragraph 758: gold location "engine" not included in candidate set.
+[INFO] Paragraph 758: gold location "alternator" not included in candidate set.
+[INFO] Paragraph 758: gold location "outlet of the generator ." not included in candidate set.
+Paragraph 825: 
+Location candidate set:  set()
+[INFO] Paragraph 825: gold location "underground" not included in candidate set.
+[INFO] Paragraph 825: gold location "nuclear power plant" not included in candidate set.
+[INFO] Paragraph 825: gold location "nuclear reactor" not included in candidate set.
+[INFO] Paragraph 825: gold location "generator" not included in candidate set.
+[INFO] Paragraph 825: gold location "turbine" not included in candidate set.
+Paragraph 826: 
+Location candidate set:  set()
+[INFO] Paragraph 826: gold location "nuclear reactor" not included in candidate set.
+[INFO] Paragraph 826: gold location "turbine" not included in candidate set.
+Paragraph 1260: 
+Location candidate set:  set()
+[INFO] Paragraph 1260: gold location "abdomen" not included in candidate set.
+[INFO] Paragraph 1260: gold location "object" not included in candidate set.
+Paragraph 37: 
+Location candidate set:  set()
+[INFO] Paragraph 37: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 37: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 37: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 37: gold location "rock" not included in candidate set.
+[INFO] Paragraph 37: gold location "rock" not included in candidate set.
+[INFO] Paragraph 37: gold location "rock" not included in candidate set.
+[INFO] Paragraph 37: gold location "rock" not included in candidate set.
+[INFO] Paragraph 37: gold location "rock" not included in candidate set.
+[INFO] Paragraph 37: gold location "rock" not included in candidate set.
+Paragraph 38: 
+Location candidate set:  set()
+[INFO] Paragraph 38: gold location "sandy or wet place" not included in candidate set.
+[INFO] Paragraph 38: gold location "sandy or wet place" not included in candidate set.
+[INFO] Paragraph 38: gold location "sandy or wet place" not included in candidate set.
+[INFO] Paragraph 38: gold location "sandy or wet place" not included in candidate set.
+[INFO] Paragraph 38: gold location "around the body" not included in candidate set.
+[INFO] Paragraph 38: gold location "around the body" not included in candidate set.
+[INFO] Paragraph 38: gold location "around the body" not included in candidate set.
+[INFO] Paragraph 38: gold location "around the body" not included in candidate set.
+[INFO] Paragraph 38: gold location "rock" not included in candidate set.
+[INFO] Paragraph 38: gold location "rock" not included in candidate set.
+Paragraph 67: 
+Location candidate set:  set()
+[INFO] Paragraph 67: gold location "swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+[INFO] Paragraph 67: gold location "bottom of the swamp" not included in candidate set.
+Paragraph 68: 
+Location candidate set:  set()
+[INFO] Paragraph 68: gold location "area" not included in candidate set.
+[INFO] Paragraph 68: gold location "steamy , swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "sand , clay , and other mineral material" not included in candidate set.
+[INFO] Paragraph 68: gold location "swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "steamy , swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "sand , clay , and other mineral material" not included in candidate set.
+[INFO] Paragraph 68: gold location "swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "steamy , swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "steamy , swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "steamy , swampy area" not included in candidate set.
+[INFO] Paragraph 68: gold location "peat" not included in candidate set.
+[INFO] Paragraph 68: gold location "peat" not included in candidate set.
+[INFO] Paragraph 68: gold location "burial peat" not included in candidate set.
+[INFO] Paragraph 68: gold location "burial peat" not included in candidate set.
+Paragraph 69: 
+Location candidate set:  set()
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "sedimentary rock" not included in candidate set.
+[INFO] Paragraph 69: gold location "sedimentary rock" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+[INFO] Paragraph 69: gold location "peat" not included in candidate set.
+[INFO] Paragraph 69: gold location "peat" not included in candidate set.
+[INFO] Paragraph 69: gold location "peat" not included in candidate set.
+[INFO] Paragraph 69: gold location "bottom of swamp" not included in candidate set.
+Paragraph 70: 
+Location candidate set:  set()
+[INFO] Paragraph 70: gold location "rain" not included in candidate set.
+[INFO] Paragraph 70: gold location "river or lake" not included in candidate set.
+[INFO] Paragraph 70: gold location "ground" not included in candidate set.
+[INFO] Paragraph 70: gold location "street" not included in candidate set.
+[INFO] Paragraph 70: gold location "house" not included in candidate set.
+[INFO] Paragraph 70: gold location "ground" not included in candidate set.
+[INFO] Paragraph 70: gold location "stream" not included in candidate set.
+Paragraph 99: 
+Location candidate set:  set()
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "mountain" not included in candidate set.
+[INFO] Paragraph 99: gold location "mountain" not included in candidate set.
+[INFO] Paragraph 99: gold location "mountain" not included in candidate set.
+[INFO] Paragraph 99: gold location "mountain" not included in candidate set.
+[INFO] Paragraph 99: gold location "mountain" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "sky" not included in candidate set.
+[INFO] Paragraph 99: gold location "area that receive little rain" not included in candidate set.
+[INFO] Paragraph 99: gold location "area that receive little rain" not included in candidate set.
+[INFO] Paragraph 99: gold location "area that receive little rain" not included in candidate set.
+Paragraph 152: 
+Location candidate set:  set()
+[INFO] Paragraph 152: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 152: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 152: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 152: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 152: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 152: gold location "atmosphere" not included in candidate set.
+Paragraph 249: 
+Location candidate set:  set()
+[INFO] Paragraph 249: gold location "rock" not included in candidate set.
+[INFO] Paragraph 249: gold location "water" not included in candidate set.
+Paragraph 310: 
+Location candidate set:  set()
+[INFO] Paragraph 310: gold location "heart" not included in candidate set.
+[INFO] Paragraph 310: gold location "lung" not included in candidate set.
+[INFO] Paragraph 310: gold location "lung" not included in candidate set.
+[INFO] Paragraph 310: gold location "lung" not included in candidate set.
+[INFO] Paragraph 310: gold location "heart" not included in candidate set.
+[INFO] Paragraph 310: gold location "body" not included in candidate set.
+[INFO] Paragraph 310: gold location "blood" not included in candidate set.
+[INFO] Paragraph 310: gold location "blood" not included in candidate set.
+[INFO] Paragraph 310: gold location "lung" not included in candidate set.
+[INFO] Paragraph 310: gold location "lung" not included in candidate set.
+[INFO] Paragraph 310: gold location "lung" not included in candidate set.
+[INFO] Paragraph 310: gold location "blood" not included in candidate set.
+[INFO] Paragraph 310: gold location "blood" not included in candidate set.
+[INFO] Paragraph 310: gold location "blood" not included in candidate set.
+Paragraph 400: 
+Location candidate set:  set()
+[INFO] Paragraph 400: gold location "solar panel" not included in candidate set.
+[WARNING] Paragraph 400: location "solar panel" is not a span in paragraph.
+[INFO] Paragraph 400: gold location "solar panel" not included in candidate set.
+[WARNING] Paragraph 400: location "solar panel" is not a span in paragraph.
+Paragraph 401: 
+Location candidate set:  set()
+[INFO] Paragraph 401: gold location "solar panel" not included in candidate set.
+[INFO] Paragraph 401: gold location "top half of the solar panel" not included in candidate set.
+[INFO] Paragraph 401: gold location "bottom half of the solar panel" not included in candidate set.
+[INFO] Paragraph 401: gold location "solar panel" not included in candidate set.
+[INFO] Paragraph 401: gold location "solar ` ` inverter ''" not included in candidate set.
+[INFO] Paragraph 401: gold location "house" not included in candidate set.
+[WARNING] Paragraph 401: location "solar ` ` inverter ''" is not a span in paragraph.
+Paragraph 409: 
+Location candidate set:  set()
+[INFO] Paragraph 409: gold location "retina" not included in candidate set.
+[INFO] Paragraph 409: gold location "retina" not included in candidate set.
+[INFO] Paragraph 409: gold location "brain" not included in candidate set.
+[INFO] Paragraph 409: gold location "brain" not included in candidate set.
+Paragraph 410: 
+Location candidate set:  set()
+[INFO] Paragraph 410: gold location "retina" not included in candidate set.
+[INFO] Paragraph 410: gold location "brain" not included in candidate set.
+[INFO] Paragraph 410: gold location "brain" not included in candidate set.
+[INFO] Paragraph 410: gold location "cornea" not included in candidate set.
+[INFO] Paragraph 410: gold location "iris" not included in candidate set.
+[INFO] Paragraph 410: gold location "retina" not included in candidate set.
+Paragraph 411: 
+Location candidate set:  set()
+[INFO] Paragraph 411: gold location "retina" not included in candidate set.
+[INFO] Paragraph 411: gold location "retina" not included in candidate set.
+[INFO] Paragraph 411: gold location "retina" not included in candidate set.
+[INFO] Paragraph 411: gold location "retina" not included in candidate set.
+[INFO] Paragraph 411: gold location "cerebral cortex" not included in candidate set.
+[INFO] Paragraph 411: gold location "superior colliculus" not included in candidate set.
+[INFO] Paragraph 411: gold location "brain" not included in candidate set.
+[INFO] Paragraph 411: gold location "photoreceptor cell" not included in candidate set.
+Paragraph 429: 
+Location candidate set:  set()
+[INFO] Paragraph 429: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 429: gold location "soil" not included in candidate set.
+[INFO] Paragraph 429: gold location "soil" not included in candidate set.
+[INFO] Paragraph 429: gold location "plant" not included in candidate set.
+[INFO] Paragraph 429: gold location "animal" not included in candidate set.
+[INFO] Paragraph 429: gold location "waste" not included in candidate set.
+[INFO] Paragraph 429: gold location "waste" not included in candidate set.
+[INFO] Paragraph 429: gold location "soil" not included in candidate set.
+[WARNING] Paragraph 429: entity "fixed nitrogen " is not a span in paragraph.
+[INFO] Paragraph 429: gold location "animal" not included in candidate set.
+[INFO] Paragraph 429: gold location "soil" not included in candidate set.
+[INFO] Paragraph 429: gold location "atmosphere" not included in candidate set.
+Paragraph 460: 
+Location candidate set:  set()
+[INFO] Paragraph 460: gold location "underground" not included in candidate set.
+[INFO] Paragraph 460: gold location "live thing" not included in candidate set.
+[INFO] Paragraph 460: gold location "live thing" not included in candidate set.
+[INFO] Paragraph 460: gold location "underground" not included in candidate set.
+[INFO] Paragraph 460: gold location "underground" not included in candidate set.
+[INFO] Paragraph 460: gold location "underground" not included in candidate set.
+[INFO] Paragraph 460: gold location "underground" not included in candidate set.
+[INFO] Paragraph 460: gold location "surface" not included in candidate set.
+[INFO] Paragraph 460: gold location "fossil fuel" not included in candidate set.
+[INFO] Paragraph 460: gold location "fossil fuel" not included in candidate set.
+Paragraph 463: 
+Location candidate set:  set()
+[INFO] Paragraph 463: gold location "updraft" not included in candidate set.
+[INFO] Paragraph 463: gold location "surface" not included in candidate set.
+[INFO] Paragraph 463: gold location "surface" not included in candidate set.
+[INFO] Paragraph 463: gold location "surface" not included in candidate set.
+[INFO] Paragraph 463: gold location "aloft" not included in candidate set.
+[INFO] Paragraph 463: gold location "earth" not included in candidate set.
+Paragraph 465: 
+Location candidate set:  set()
+[INFO] Paragraph 465: gold location "wind" not included in candidate set.
+[INFO] Paragraph 465: gold location "wind" not included in candidate set.
+[INFO] Paragraph 465: gold location "wind" not included in candidate set.
+[INFO] Paragraph 465: gold location "wind" not included in candidate set.
+[INFO] Paragraph 465: gold location "wind" not included in candidate set.
+[INFO] Paragraph 465: gold location "wind" not included in candidate set.
+[INFO] Paragraph 465: gold location "ground" not included in candidate set.
+Paragraph 502: 
+Location candidate set:  set()
+[INFO] Paragraph 502: gold location "combustion chamber" not included in candidate set.
+[INFO] Paragraph 502: gold location "piston motion" not included in candidate set.
+[INFO] Paragraph 502: gold location "rotary motion" not included in candidate set.
+[INFO] Paragraph 502: gold location "rotary motion" not included in candidate set.
+[INFO] Paragraph 502: gold location "rotary motion" not included in candidate set.
+[INFO] Paragraph 502: gold location "piston" not included in candidate set.
+Paragraph 503: 
+Location candidate set:  set()
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+[INFO] Paragraph 503: gold location "car" not included in candidate set.
+Paragraph 533: 
+Location candidate set:  set()
+[INFO] Paragraph 533: gold location "soil" not included in candidate set.
+[INFO] Paragraph 533: gold location "soil" not included in candidate set.
+[INFO] Paragraph 533: gold location "soil" not included in candidate set.
+[INFO] Paragraph 533: gold location "soil" not included in candidate set.
+[INFO] Paragraph 533: gold location "soil" not included in candidate set.
+[INFO] Paragraph 533: gold location "soil" not included in candidate set.
+Paragraph 534: 
+Location candidate set:  set()
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+[INFO] Paragraph 534: gold location "tree" not included in candidate set.
+Paragraph 582: 
+Location candidate set:  set()
+[INFO] Paragraph 582: gold location "north" not included in candidate set.
+[INFO] Paragraph 582: gold location "north" not included in candidate set.
+[INFO] Paragraph 582: gold location "south" not included in candidate set.
+[INFO] Paragraph 582: gold location "tornado" not included in candidate set.
+[INFO] Paragraph 582: gold location "updraft" not included in candidate set.
+Paragraph 583: 
+Location candidate set:  set()
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "ground" not included in candidate set.
+[WARNING] Paragraph 583: entity "warm , humd low - presure air" is not a span in paragraph.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "ground" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "air" not included in candidate set.
+[INFO] Paragraph 583: gold location "ground" not included in candidate set.
+[INFO] Paragraph 583: gold location "funnel" not included in candidate set.
+[INFO] Paragraph 583: gold location "ground" not included in candidate set.
+[INFO] Paragraph 583: gold location "ground" not included in candidate set.
+[WARNING] Paragraph 583: entity "tornado" is not a span in paragraph.
+Paragraph 600: 
+Location candidate set:  set()
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "piston" not included in candidate set.
+[INFO] Paragraph 600: gold location "crankshaft" not included in candidate set.
+[INFO] Paragraph 600: gold location "gear" not included in candidate set.
+[INFO] Paragraph 600: gold location "wheel" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+[INFO] Paragraph 600: gold location "engine" not included in candidate set.
+Paragraph 653: 
+Location candidate set:  set()
+[INFO] Paragraph 653: gold location "tree" not included in candidate set.
+[INFO] Paragraph 653: gold location "tree" not included in candidate set.
+[INFO] Paragraph 653: gold location "tree" not included in candidate set.
+Paragraph 654: 
+Location candidate set:  set()
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+[INFO] Paragraph 654: gold location "ground" not included in candidate set.
+Paragraph 659: 
+Location candidate set:  set()
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "plant" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "soil" not included in candidate set.
+[INFO] Paragraph 659: gold location "air" not included in candidate set.
+[INFO] Paragraph 659: gold location "air" not included in candidate set.
+Paragraph 660: 
+Location candidate set:  set()
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "plant" not included in candidate set.
+[INFO] Paragraph 660: gold location "plant" not included in candidate set.
+[INFO] Paragraph 660: gold location "plant" not included in candidate set.
+[INFO] Paragraph 660: gold location "fungus" not included in candidate set.
+[WARNING] Paragraph 660: location "fungus" is not a span in paragraph.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "soil" not included in candidate set.
+[INFO] Paragraph 660: gold location "atmosphere" not included in candidate set.
+Paragraph 661: 
+Location candidate set:  set()
+[INFO] Paragraph 661: gold location "amino acid , nucleic acid , and chlorophyll" not included in candidate set.
+[INFO] Paragraph 661: gold location "amino acid , nucleic acid , and chlorophyll" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "air" not included in candidate set.
+[INFO] Paragraph 661: gold location "air" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "plant" not included in candidate set.
+[INFO] Paragraph 661: gold location "plant" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+[INFO] Paragraph 661: gold location "soil" not included in candidate set.
+Paragraph 695: 
+Location candidate set:  set()
+[INFO] Paragraph 695: gold location "river or lake or the ocean" not included in candidate set.
+[INFO] Paragraph 695: gold location "air" not included in candidate set.
+[INFO] Paragraph 695: gold location "air" not included in candidate set.
+[INFO] Paragraph 695: gold location "air" not included in candidate set.
+[INFO] Paragraph 695: gold location "air" not included in candidate set.
+[INFO] Paragraph 695: gold location "air" not included in candidate set.
+[INFO] Paragraph 695: gold location "air" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "ocean , lake , or river" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "ocean , lake , or river" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "ocean , lake , or river" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "earth" not included in candidate set.
+[INFO] Paragraph 695: gold location "ocean , lake , or river" not included in candidate set.
+Paragraph 696: 
+Location candidate set:  set()
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "water droplet" not included in candidate set.
+[INFO] Paragraph 696: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 696: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 696: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+[INFO] Paragraph 696: gold location "air" not included in candidate set.
+Paragraph 697: 
+Location candidate set:  set()
+[INFO] Paragraph 697: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 697: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 697: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 697: gold location "area below the cloud" not included in candidate set.
+[INFO] Paragraph 697: gold location "area below the cloud" not included in candidate set.
+Paragraph 1031: 
+Location candidate set:  set()
+[INFO] Paragraph 1031: gold location "mud or soil" not included in candidate set.
+[INFO] Paragraph 1031: gold location "mud or soil" not included in candidate set.
+[INFO] Paragraph 1031: gold location "mud or soil" not included in candidate set.
+[INFO] Paragraph 1031: gold location "rock" not included in candidate set.
+Paragraph 1032: 
+Location candidate set:  set()
+[INFO] Paragraph 1032: gold location "wet environment" not included in candidate set.
+[INFO] Paragraph 1032: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1032: gold location "wet environment" not included in candidate set.
+[INFO] Paragraph 1032: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1032: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1032: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1032: gold location "remain" not included in candidate set.
+[INFO] Paragraph 1032: gold location "remain" not included in candidate set.
+Paragraph 1033: 
+Location candidate set:  set()
+[INFO] Paragraph 1033: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1033: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1033: gold location "rock" not included in candidate set.
+[INFO] Paragraph 1033: gold location "mud" not included in candidate set.
+[INFO] Paragraph 1033: gold location "mud" not included in candidate set.
+Paragraph 1145: 
+Location candidate set:  set()
+[INFO] Paragraph 1145: gold location "star" not included in candidate set.
+[INFO] Paragraph 1145: gold location "star" not included in candidate set.
+[INFO] Paragraph 1145: gold location "star" not included in candidate set.
+[INFO] Paragraph 1145: gold location "star" not included in candidate set.
+[INFO] Paragraph 1145: gold location "star" not included in candidate set.
+[INFO] Paragraph 1145: gold location "star" not included in candidate set.
+Paragraph 1146: 
+Location candidate set:  set()
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "star" not included in candidate set.
+[INFO] Paragraph 1146: gold location "space" not included in candidate set.
+[WARNING] Paragraph 1146: entity "red giant star" is not a span in paragraph.
+Paragraph 1147: 
+Location candidate set:  set()
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[INFO] Paragraph 1147: gold location "star" not included in candidate set.
+[WARNING] Paragraph 1147: entity "red giant star" is not a span in paragraph.
+Paragraph 1188: 
+Location candidate set:  set()
+[INFO] Paragraph 1188: gold location "outer space" not included in candidate set.
+[INFO] Paragraph 1188: gold location "close to a planet" not included in candidate set.
+[INFO] Paragraph 1188: gold location "planet 's atmosphere" not included in candidate set.
+[INFO] Paragraph 1188: gold location "planet" not included in candidate set.
+[WARNING] Paragraph 1188: entity "crater" is not a span in paragraph.
+Paragraph 1189: 
+Location candidate set:  set()
+[INFO] Paragraph 1189: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 1189: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 1189: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 1189: gold location "earth" not included in candidate set.
+[INFO] Paragraph 1189: gold location "earth" not included in candidate set.
+Paragraph 1190: 
+Location candidate set:  set()
+[INFO] Paragraph 1190: gold location "lung" not included in candidate set.
+[INFO] Paragraph 1190: gold location "leave atrium" not included in candidate set.
+[INFO] Paragraph 1190: gold location "leave ventricle" not included in candidate set.
+[INFO] Paragraph 1190: gold location "body" not included in candidate set.
+[WARNING] Paragraph 1190: location "leave atrium" is not a span in paragraph.
+[WARNING] Paragraph 1190: location "leave ventricle" is not a span in paragraph.
+[INFO] Paragraph 1190: gold location "heart" not included in candidate set.
+[INFO] Paragraph 1190: gold location "right atrium" not included in candidate set.
+[INFO] Paragraph 1190: gold location "tricuspid valve" not included in candidate set.
+[INFO] Paragraph 1190: gold location "right ventricle" not included in candidate set.
+[INFO] Paragraph 1190: gold location "lung" not included in candidate set.
+[INFO] Paragraph 1190: gold location "heart" not included in candidate set.
+Paragraph 1240: 
+Location candidate set:  set()
+[INFO] Paragraph 1240: gold location "evaporator 's coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "evaporator 's coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "evaporator 's coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "refrigerant" not included in candidate set.
+[INFO] Paragraph 1240: gold location "coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "coil" not included in candidate set.
+[WARNING] Paragraph 1240: entity "refrigerent liquid" is not a span in paragraph.
+[INFO] Paragraph 1240: gold location "coil" not included in candidate set.
+[INFO] Paragraph 1240: gold location "compressor" not included in candidate set.
+[WARNING] Paragraph 1240: entity "refrigerent gas" is not a span in paragraph.
+[INFO] Paragraph 1240: gold location "condenser" not included in candidate set.
+[INFO] Paragraph 1240: gold location "condenser" not included in candidate set.
+[INFO] Paragraph 1240: gold location "condenser" not included in candidate set.
+[INFO] Paragraph 1240: gold location "evaporator" not included in candidate set.
+Paragraph 725: 
+Location candidate set:  set()
+[INFO] Paragraph 725: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 725: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 725: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 725: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 725: gold location "void" not included in candidate set.
+Paragraph 726: 
+Location candidate set:  set()
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[INFO] Paragraph 726: gold location "bottom of a ocean" not included in candidate set.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[WARNING] Paragraph 726: location "bottom of a ocean" is not a span in paragraph.
+[INFO] Paragraph 726: gold location "rock" not included in candidate set.
+[INFO] Paragraph 726: gold location "rock" not included in candidate set.
+Paragraph 727: 
+Location candidate set:  set()
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "animal" not included in candidate set.
+[INFO] Paragraph 727: gold location "animal" not included in candidate set.
+[INFO] Paragraph 727: gold location "animal" not included in candidate set.
+[INFO] Paragraph 727: gold location "animal" not included in candidate set.
+[INFO] Paragraph 727: gold location "animal" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "mud and silt" not included in candidate set.
+[INFO] Paragraph 727: gold location "rock" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "watery environment" not included in candidate set.
+[INFO] Paragraph 727: gold location "bone" not included in candidate set.
+[INFO] Paragraph 727: gold location "rock" not included in candidate set.
+[INFO] Paragraph 727: gold location "rock" not included in candidate set.
+[INFO] Paragraph 727: gold location "rock" not included in candidate set.
+Paragraph 791: 
+Location candidate set:  set()
+[INFO] Paragraph 791: gold location "solar cell" not included in candidate set.
+[INFO] Paragraph 791: gold location "inverter" not included in candidate set.
+[INFO] Paragraph 791: gold location "home" not included in candidate set.
+[INFO] Paragraph 791: gold location "power grid" not included in candidate set.
+Paragraph 896: 
+Location candidate set:  set()
+[INFO] Paragraph 896: gold location "heart" not included in candidate set.
+[INFO] Paragraph 896: gold location "heart" not included in candidate set.
+[INFO] Paragraph 896: gold location "right ventricle" not included in candidate set.
+[INFO] Paragraph 896: gold location "right ventricle" not included in candidate set.
+[INFO] Paragraph 896: gold location "right ventricle" not included in candidate set.
+[INFO] Paragraph 896: gold location "lung" not included in candidate set.
+[INFO] Paragraph 896: gold location "lung" not included in candidate set.
+[INFO] Paragraph 896: gold location "leave atrium" not included in candidate set.
+[INFO] Paragraph 896: gold location "body" not included in candidate set.
+[WARNING] Paragraph 896: location "leave atrium" is not a span in paragraph.
+Paragraph 903: 
+Location candidate set:  set()
+[INFO] Paragraph 903: gold location "len" not included in candidate set.
+[INFO] Paragraph 903: gold location "retina" not included in candidate set.
+[INFO] Paragraph 903: gold location "photoreceptor cell" not included in candidate set.
+[WARNING] Paragraph 903: location "len" is not a span in paragraph.
+[INFO] Paragraph 903: gold location "photoreceptor cell" not included in candidate set.
+[INFO] Paragraph 903: gold location "brain" not included in candidate set.
+[INFO] Paragraph 903: gold location "brain" not included in candidate set.
+Paragraph 904: 
+Location candidate set:  set()
+[WARNING] Paragraph 904: location "cornea and len" is not a span in paragraph.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "retina" not included in candidate set.
+[INFO] Paragraph 904: gold location "optic nerve" not included in candidate set.
+[INFO] Paragraph 904: gold location "optic canal" not included in candidate set.
+[INFO] Paragraph 904: gold location "lateral geniculate nucleus and the visual cortex" not included in candidate set.
+Paragraph 927: 
+Location candidate set:  set()
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+[INFO] Paragraph 927: gold location "ground" not included in candidate set.
+Paragraph 932: 
+Location candidate set:  set()
+[INFO] Paragraph 932: gold location "rock" not included in candidate set.
+[INFO] Paragraph 932: gold location "rock" not included in candidate set.
+[INFO] Paragraph 932: gold location "rock" not included in candidate set.
+[INFO] Paragraph 932: gold location "rock" not included in candidate set.
+[INFO] Paragraph 932: gold location "rock" not included in candidate set.
+[INFO] Paragraph 932: gold location "rock" not included in candidate set.
+[INFO] Paragraph 932: gold location "water" not included in candidate set.
+[INFO] Paragraph 932: gold location "water" not included in candidate set.
+[INFO] Paragraph 932: gold location "water" not included in candidate set.
+[INFO] Paragraph 932: gold location "water" not included in candidate set.
+[INFO] Paragraph 932: gold location "water" not included in candidate set.
+[INFO] Paragraph 932: gold location "water" not included in candidate set.
+[INFO] Paragraph 932: gold location "air" not included in candidate set.
+[INFO] Paragraph 932: gold location "air" not included in candidate set.
+[INFO] Paragraph 932: gold location "air" not included in candidate set.
+[INFO] Paragraph 932: gold location "air" not included in candidate set.
+[INFO] Paragraph 932: gold location "air" not included in candidate set.
+[INFO] Paragraph 932: gold location "air" not included in candidate set.
+Paragraph 933: 
+Location candidate set:  set()
+[INFO] Paragraph 933: gold location "mineral base material" not included in candidate set.
+[INFO] Paragraph 933: gold location "rock" not included in candidate set.
+[INFO] Paragraph 933: gold location "rock" not included in candidate set.
+Paragraph 7: 
+Location candidate set:  set()
+[INFO] Paragraph 7: gold location "deep in the earth" not included in candidate set.
+[INFO] Paragraph 7: gold location "volcano" not included in candidate set.
+Paragraph 11: 
+Location candidate set:  set()
+[INFO] Paragraph 11: gold location "beach" not included in candidate set.
+[INFO] Paragraph 11: gold location "ocean" not included in candidate set.
+[INFO] Paragraph 11: gold location "wave" not included in candidate set.
+[WARNING] Paragraph 11: entity "tiny parts of rocks" is not a span in paragraph.
+Paragraph 13: 
+Location candidate set:  set()
+[INFO] Paragraph 13: gold location "ground" not included in candidate set.
+[INFO] Paragraph 13: gold location "plant" not included in candidate set.
+[INFO] Paragraph 13: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 13: gold location "river" not included in candidate set.
+[INFO] Paragraph 13: gold location "pond , lake , or ocean" not included in candidate set.
+[INFO] Paragraph 13: gold location "atmosphere" not included in candidate set.
+Paragraph 14: 
+Location candidate set:  set()
+[INFO] Paragraph 14: gold location "ground" not included in candidate set.
+[INFO] Paragraph 14: gold location "river and ocean" not included in candidate set.
+[INFO] Paragraph 14: gold location "cloud" not included in candidate set.
+Paragraph 15: 
+Location candidate set:  set()
+[INFO] Paragraph 15: gold location "earth" not included in candidate set.
+[INFO] Paragraph 15: gold location "sky" not included in candidate set.
+Paragraph 20: 
+Location candidate set:  set()
+[INFO] Paragraph 20: gold location "place" not included in candidate set.
+[INFO] Paragraph 20: gold location "new location" not included in candidate set.
+[INFO] Paragraph 20: gold location "new place" not included in candidate set.
+Paragraph 22: 
+Location candidate set:  set()
+[INFO] Paragraph 22: gold location "area" not included in candidate set.
+[INFO] Paragraph 22: gold location "rocky area" not included in candidate set.
+[INFO] Paragraph 22: gold location "low elevation" not included in candidate set.
+[INFO] Paragraph 22: gold location "rock" not included in candidate set.
+[WARNING] Paragraph 22: entity "valley" is not a span in paragraph.
+Paragraph 31: 
+Location candidate set:  set()
+[INFO] Paragraph 31: gold location "rain" not included in candidate set.
+[INFO] Paragraph 31: gold location "soil" not included in candidate set.
+[INFO] Paragraph 31: gold location "limestone" not included in candidate set.
+[INFO] Paragraph 31: gold location "cave" not included in candidate set.
+Paragraph 34: 
+Location candidate set:  set()
+[INFO] Paragraph 34: gold location "volcano" not included in candidate set.
+[INFO] Paragraph 34: gold location "surface of the volcano" not included in candidate set.
+[INFO] Paragraph 34: gold location "surface" not included in candidate set.
+[WARNING] Paragraph 34: entity "igneous rock" is not a span in paragraph.
+Paragraph 35: 
+Location candidate set:  set()
+[INFO] Paragraph 35: gold location "crust" not included in candidate set.
+[INFO] Paragraph 35: gold location "surface" not included in candidate set.
+Paragraph 36: 
+Location candidate set:  set()
+[INFO] Paragraph 36: gold location "surface" not included in candidate set.
+Paragraph 41: 
+Location candidate set:  set()
+[INFO] Paragraph 41: gold location "beneath the surface" not included in candidate set.
+[INFO] Paragraph 41: gold location "rock" not included in candidate set.
+[INFO] Paragraph 41: gold location "earth" not included in candidate set.
+Paragraph 43: 
+Location candidate set:  set()
+[INFO] Paragraph 43: gold location "ocean , lake , and river" not included in candidate set.
+[INFO] Paragraph 43: gold location "sky" not included in candidate set.
+[INFO] Paragraph 43: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 43: gold location "earth" not included in candidate set.
+Paragraph 45: 
+Location candidate set:  set()
+[INFO] Paragraph 45: gold location "sky" not included in candidate set.
+[INFO] Paragraph 45: gold location "cloud" not included in candidate set.
+[WARNING] Paragraph 45: entity "rain" is not a span in paragraph.
+Paragraph 48: 
+Location candidate set:  set()
+[INFO] Paragraph 48: gold location "inside the volcano" not included in candidate set.
+[INFO] Paragraph 48: gold location "volcano" not included in candidate set.
+Paragraph 50: 
+Location candidate set:  set()
+[INFO] Paragraph 50: gold location "surface" not included in candidate set.
+[INFO] Paragraph 50: gold location "surface of the earth" not included in candidate set.
+Paragraph 51: 
+Location candidate set:  set()
+[INFO] Paragraph 51: gold location "earth 's crust" not included in candidate set.
+Paragraph 52: 
+Location candidate set:  set()
+[INFO] Paragraph 52: gold location "underground" not included in candidate set.
+[INFO] Paragraph 52: gold location "rock" not included in candidate set.
+[INFO] Paragraph 52: gold location "side of the fault line" not included in candidate set.
+[INFO] Paragraph 52: gold location "earth" not included in candidate set.
+Paragraph 56: 
+Location candidate set:  set()
+[INFO] Paragraph 56: gold location "air" not included in candidate set.
+[INFO] Paragraph 56: gold location "ground" not included in candidate set.
+Paragraph 57: 
+Location candidate set:  set()
+[INFO] Paragraph 57: gold location "sky" not included in candidate set.
+[INFO] Paragraph 57: gold location "cloud" not included in candidate set.
+Paragraph 58: 
+Location candidate set:  set()
+[INFO] Paragraph 58: gold location "river or lake" not included in candidate set.
+[INFO] Paragraph 58: gold location "ground" not included in candidate set.
+[INFO] Paragraph 58: gold location "street" not included in candidate set.
+[INFO] Paragraph 58: gold location "house and other building" not included in candidate set.
+[INFO] Paragraph 58: gold location "stream" not included in candidate set.
+Paragraph 61: 
+Location candidate set:  set()
+[INFO] Paragraph 61: gold location "sediment" not included in candidate set.
+Paragraph 64: 
+Location candidate set:  set()
+[INFO] Paragraph 64: gold location "area of high elevation" not included in candidate set.
+[INFO] Paragraph 64: gold location "low elevation" not included in candidate set.
+[INFO] Paragraph 64: gold location "path" not included in candidate set.
+[INFO] Paragraph 64: gold location "soil" not included in candidate set.
+[WARNING] Paragraph 64: entity "ravine" is not a span in paragraph.
+Paragraph 76: 
+Location candidate set:  set()
+[INFO] Paragraph 76: gold location "rock" not included in candidate set.
+[INFO] Paragraph 76: gold location "sediment" not included in candidate set.
+[WARNING] Paragraph 76: entity "sedimentary rock " is not a span in paragraph.
+Paragraph 78: 
+Location candidate set:  set()
+[INFO] Paragraph 78: gold location "rock" not included in candidate set.
+[INFO] Paragraph 78: gold location "wind and water" not included in candidate set.
+[INFO] Paragraph 78: gold location "area" not included in candidate set.
+[INFO] Paragraph 78: gold location "spot" not included in candidate set.
+[INFO] Paragraph 78: gold location "top of other sediment" not included in candidate set.
+[INFO] Paragraph 78: gold location "near the bottom" not included in candidate set.
+[INFO] Paragraph 78: gold location "bottom" not included in candidate set.
+Paragraph 80: 
+Location candidate set:  set()
+[INFO] Paragraph 80: gold location "beneath the earth" not included in candidate set.
+[INFO] Paragraph 80: gold location "around the crack" not included in candidate set.
+[INFO] Paragraph 80: gold location "earth" not included in candidate set.
+[INFO] Paragraph 80: gold location "volcano" not included in candidate set.
+Paragraph 112: 
+Location candidate set:  set()
+[INFO] Paragraph 112: gold location "plant" not included in candidate set.
+[INFO] Paragraph 112: gold location "leaf" not included in candidate set.
+[INFO] Paragraph 112: gold location "sun" not included in candidate set.
+Paragraph 113: 
+Location candidate set:  set()
+[INFO] Paragraph 113: gold location "leaf" not included in candidate set.
+[INFO] Paragraph 113: gold location "plant" not included in candidate set.
+[INFO] Paragraph 113: gold location "soil" not included in candidate set.
+[INFO] Paragraph 113: gold location "root" not included in candidate set.
+Paragraph 115: 
+Location candidate set:  set()
+[INFO] Paragraph 115: gold location "surface" not included in candidate set.
+Paragraph 116: 
+Location candidate set:  set()
+Paragraph 127: 
+Location candidate set:  set()
+[INFO] Paragraph 127: gold location "water" not included in candidate set.
+[INFO] Paragraph 127: gold location "atmosphere" not included in candidate set.
+Paragraph 132: 
+Location candidate set:  set()
+[INFO] Paragraph 132: gold location "windpipe" not included in candidate set.
+[INFO] Paragraph 132: gold location "lung" not included in candidate set.
+[INFO] Paragraph 132: gold location "blood stream" not included in candidate set.
+[INFO] Paragraph 132: gold location "environment" not included in candidate set.
+Paragraph 135: 
+Location candidate set:  set()
+[INFO] Paragraph 135: gold location "area" not included in candidate set.
+[INFO] Paragraph 135: gold location "object" not included in candidate set.
+[INFO] Paragraph 135: gold location "bat" not included in candidate set.
+Paragraph 139: 
+Location candidate set:  set()
+[INFO] Paragraph 139: gold location "lung" not included in candidate set.
+[INFO] Paragraph 139: gold location "alveolu" not included in candidate set.
+[WARNING] Paragraph 139: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 139: gold location "blood" not included in candidate set.
+[INFO] Paragraph 139: gold location "body" not included in candidate set.
+[WARNING] Paragraph 139: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 139: gold location "heart" not included in candidate set.
+[WARNING] Paragraph 139: entity "oxygen - rich blood , oxygen rich blood" is not a span in paragraph.
+Paragraph 140: 
+Location candidate set:  set()
+[INFO] Paragraph 140: gold location "person" not included in candidate set.
+[INFO] Paragraph 140: gold location "lung" not included in candidate set.
+[INFO] Paragraph 140: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 140: gold location "cell" not included in candidate set.
+[INFO] Paragraph 140: gold location "nose and mouth" not included in candidate set.
+Paragraph 141: 
+Location candidate set:  set()
+[INFO] Paragraph 141: gold location "lung" not included in candidate set.
+Paragraph 157: 
+Location candidate set:  set()
+[INFO] Paragraph 157: gold location "recycle bin" not included in candidate set.
+[INFO] Paragraph 157: gold location "recycle facility" not included in candidate set.
+[WARNING] Paragraph 157: location "recycle facility" is not a span in paragraph.
+[WARNING] Paragraph 157: location "recycle facility" is not a span in paragraph.
+[INFO] Paragraph 157: gold location "another facility" not included in candidate set.
+[WARNING] Paragraph 157: location "recycle facility" is not a span in paragraph.
+Paragraph 158: 
+Location candidate set:  set()
+[INFO] Paragraph 158: gold location "recycle bin" not included in candidate set.
+[INFO] Paragraph 158: gold location "facility" not included in candidate set.
+[INFO] Paragraph 158: gold location "mold" not included in candidate set.
+Paragraph 159: 
+Location candidate set:  set()
+[INFO] Paragraph 159: gold location "recycle bin" not included in candidate set.
+[INFO] Paragraph 159: gold location "treatment plant" not included in candidate set.
+[WARNING] Paragraph 159: entity "aluminium cans aluminium" is not a span in paragraph.
+[INFO] Paragraph 159: gold location "mill" not included in candidate set.
+Paragraph 165: 
+Location candidate set:  set()
+[INFO] Paragraph 165: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 165: gold location "small intestine" not included in candidate set.
+Paragraph 186: 
+Location candidate set:  set()
+[INFO] Paragraph 186: gold location "air" not included in candidate set.
+[INFO] Paragraph 186: gold location "bread" not included in candidate set.
+[INFO] Paragraph 186: gold location "dust particle" not included in candidate set.
+Paragraph 206: 
+Location candidate set:  set()
+[INFO] Paragraph 206: gold location "nerve" not included in candidate set.
+[INFO] Paragraph 206: gold location "muscle fiber" not included in candidate set.
+[INFO] Paragraph 206: gold location "muscle" not included in candidate set.
+Paragraph 207: 
+Location candidate set:  set()
+[INFO] Paragraph 207: gold location "muscle" not included in candidate set.
+[INFO] Paragraph 207: gold location "filament" not included in candidate set.
+Paragraph 211: 
+Location candidate set:  set()
+[INFO] Paragraph 211: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 211: gold location "ground" not included in candidate set.
+[INFO] Paragraph 211: gold location "air" not included in candidate set.
+Paragraph 212: 
+Location candidate set:  set()
+[INFO] Paragraph 212: gold location "air" not included in candidate set.
+[INFO] Paragraph 212: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 212: gold location "rain" not included in candidate set.
+[INFO] Paragraph 212: gold location "sky" not included in candidate set.
+Paragraph 214: 
+Location candidate set:  set()
+[INFO] Paragraph 214: gold location "animal" not included in candidate set.
+[INFO] Paragraph 214: gold location "ground" not included in candidate set.
+[INFO] Paragraph 214: gold location "waste" not included in candidate set.
+Paragraph 221: 
+Location candidate set:  set()
+[INFO] Paragraph 221: gold location "air" not included in candidate set.
+Paragraph 222: 
+Location candidate set:  set()
+Paragraph 225: 
+Location candidate set:  set()
+[INFO] Paragraph 225: gold location "machine" not included in candidate set.
+[WARNING] Paragraph 225: location "sew machine" is not a span in paragraph.
+Paragraph 229: 
+Location candidate set:  set()
+[INFO] Paragraph 229: gold location "area prone to flood" not included in candidate set.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[WARNING] Paragraph 229: location "area prone to flood" is not a span in paragraph.
+[INFO] Paragraph 229: gold location "behind the dam" not included in candidate set.
+[INFO] Paragraph 229: gold location "river" not included in candidate set.
+[WARNING] Paragraph 229: entity "flood water" is not a span in paragraph.
+[INFO] Paragraph 229: gold location "dam" not included in candidate set.
+Paragraph 232: 
+Location candidate set:  set()
+[INFO] Paragraph 232: gold location "object" not included in candidate set.
+[INFO] Paragraph 232: gold location "bat" not included in candidate set.
+Paragraph 251: 
+Location candidate set:  set()
+[INFO] Paragraph 251: gold location "tree" not included in candidate set.
+Paragraph 252: 
+Location candidate set:  set()
+[INFO] Paragraph 252: gold location "tree" not included in candidate set.
+Paragraph 253: 
+Location candidate set:  set()
+[INFO] Paragraph 253: gold location "plant" not included in candidate set.
+[INFO] Paragraph 253: gold location "new place" not included in candidate set.
+[WARNING] Paragraph 253: entity "seeds(2 )" is not a span in paragraph.
+Paragraph 254: 
+Location candidate set:  set()
+[INFO] Paragraph 254: gold location "plant" not included in candidate set.
+[INFO] Paragraph 254: gold location "animal" not included in candidate set.
+[INFO] Paragraph 254: gold location "new area" not included in candidate set.
+Paragraph 256: 
+Location candidate set:  set()
+[INFO] Paragraph 256: gold location "nose or mouth" not included in candidate set.
+[INFO] Paragraph 256: gold location "windpipe" not included in candidate set.
+[INFO] Paragraph 256: gold location "lung" not included in candidate set.
+[INFO] Paragraph 256: gold location "air sac" not included in candidate set.
+[INFO] Paragraph 256: gold location "blood" not included in candidate set.
+[INFO] Paragraph 256: gold location "blood stream" not included in candidate set.
+Paragraph 257: 
+Location candidate set:  set()
+[INFO] Paragraph 257: gold location "nose and mouth" not included in candidate set.
+[INFO] Paragraph 257: gold location "lung" not included in candidate set.
+[INFO] Paragraph 257: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 257: gold location "carbon dioxide" not included in candidate set.
+[INFO] Paragraph 257: gold location "air" not included in candidate set.
+[INFO] Paragraph 257: gold location "body" not included in candidate set.
+[INFO] Paragraph 257: gold location "travel" not included in candidate set.
+[INFO] Paragraph 257: gold location "blood" not included in candidate set.
+[INFO] Paragraph 257: gold location "windpipe" not included in candidate set.
+Paragraph 263: 
+Location candidate set:  set()
+[INFO] Paragraph 263: gold location "recycle center" not included in candidate set.
+[INFO] Paragraph 263: gold location "manufacturer" not included in candidate set.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 263: location "recycle center" is not a span in paragraph.
+Paragraph 264: 
+Location candidate set:  set()
+[INFO] Paragraph 264: gold location "baler machine" not included in candidate set.
+[INFO] Paragraph 264: gold location "manufacturer" not included in candidate set.
+Paragraph 280: 
+Location candidate set:  set()
+[INFO] Paragraph 280: gold location "wire" not included in candidate set.
+[INFO] Paragraph 280: gold location "central metal part" not included in candidate set.
+[INFO] Paragraph 280: gold location "piece of metal" not included in candidate set.
+Paragraph 286: 
+Location candidate set:  set()
+[INFO] Paragraph 286: gold location "ice cube tray" not included in candidate set.
+[INFO] Paragraph 286: gold location "drink" not included in candidate set.
+[INFO] Paragraph 286: gold location "freezer" not included in candidate set.
+Paragraph 287: 
+Location candidate set:  set()
+[INFO] Paragraph 287: gold location "freezer" not included in candidate set.
+[INFO] Paragraph 287: gold location "tray" not included in candidate set.
+Paragraph 290: 
+Location candidate set:  set()
+[INFO] Paragraph 290: gold location "natural water source" not included in candidate set.
+Paragraph 293: 
+Location candidate set:  set()
+[INFO] Paragraph 293: gold location "cell" not included in candidate set.
+[INFO] Paragraph 293: gold location "air" not included in candidate set.
+Paragraph 294: 
+Location candidate set:  set()
+[INFO] Paragraph 294: gold location "nose or mouth" not included in candidate set.
+[INFO] Paragraph 294: gold location "body" not included in candidate set.
+Paragraph 298: 
+Location candidate set:  set()
+[INFO] Paragraph 298: gold location "cell" not included in candidate set.
+[INFO] Paragraph 298: gold location "someone" not included in candidate set.
+[INFO] Paragraph 298: gold location "bacterium" not included in candidate set.
+[WARNING] Paragraph 298: location "bacterium" is not a span in paragraph.
+Paragraph 300: 
+Location candidate set:  set()
+[INFO] Paragraph 300: gold location "body" not included in candidate set.
+[INFO] Paragraph 300: gold location "cell" not included in candidate set.
+[INFO] Paragraph 300: gold location "bacterium" not included in candidate set.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+[WARNING] Paragraph 300: location "bacterium" is not a span in paragraph.
+Paragraph 301: 
+Location candidate set:  set()
+[INFO] Paragraph 301: gold location "front of the skateboard" not included in candidate set.
+[INFO] Paragraph 301: gold location "skateboard" not included in candidate set.
+[INFO] Paragraph 301: gold location "ground" not included in candidate set.
+Paragraph 313: 
+Location candidate set:  set()
+[INFO] Paragraph 313: gold location "environment" not included in candidate set.
+[INFO] Paragraph 313: gold location "rock" not included in candidate set.
+Paragraph 315: 
+Location candidate set:  set()
+[INFO] Paragraph 315: gold location "rock" not included in candidate set.
+Paragraph 316: 
+Location candidate set:  set()
+[INFO] Paragraph 316: gold location "wood" not included in candidate set.
+Paragraph 317: 
+Location candidate set:  set()
+[INFO] Paragraph 317: gold location "rock" not included in candidate set.
+Paragraph 318: 
+Location candidate set:  set()
+[INFO] Paragraph 318: gold location "rock" not included in candidate set.
+[INFO] Paragraph 318: gold location "near or on a rock" not included in candidate set.
+Paragraph 321: 
+Location candidate set:  set()
+[INFO] Paragraph 321: gold location "field" not included in candidate set.
+[INFO] Paragraph 321: gold location "soil" not included in candidate set.
+Paragraph 330: 
+Location candidate set:  set()
+[INFO] Paragraph 330: gold location "sunlight" not included in candidate set.
+[INFO] Paragraph 330: gold location "plant" not included in candidate set.
+[INFO] Paragraph 330: gold location "stoma" not included in candidate set.
+Paragraph 364: 
+Location candidate set:  set()
+[INFO] Paragraph 364: gold location "soil" not included in candidate set.
+[INFO] Paragraph 364: gold location "river and stream" not included in candidate set.
+[INFO] Paragraph 364: gold location "acid rain" not included in candidate set.
+Paragraph 365: 
+Location candidate set:  set()
+[INFO] Paragraph 365: gold location "soil" not included in candidate set.
+[INFO] Paragraph 365: gold location "lake , stream" not included in candidate set.
+[WARNING] Paragraph 365: entity "acidic water" is not a span in paragraph.
+[INFO] Paragraph 365: gold location "water" not included in candidate set.
+Paragraph 366: 
+Location candidate set:  set()
+[INFO] Paragraph 366: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 366: gold location "water" not included in candidate set.
+[INFO] Paragraph 366: gold location "soil" not included in candidate set.
+[INFO] Paragraph 366: gold location "leaf" not included in candidate set.
+[WARNING] Paragraph 366: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 366: gold location "tree" not included in candidate set.
+Paragraph 367: 
+Location candidate set:  set()
+[INFO] Paragraph 367: gold location "soil" not included in candidate set.
+[INFO] Paragraph 367: gold location "plant" not included in candidate set.
+Paragraph 369: 
+Location candidate set:  set()
+[INFO] Paragraph 369: gold location "plant" not included in candidate set.
+[INFO] Paragraph 369: gold location "root" not included in candidate set.
+[INFO] Paragraph 369: gold location "fiber" not included in candidate set.
+Paragraph 377: 
+Location candidate set:  set()
+[INFO] Paragraph 377: gold location "body" not included in candidate set.
+[INFO] Paragraph 377: gold location "lung" not included in candidate set.
+[INFO] Paragraph 377: gold location "air" not included in candidate set.
+[INFO] Paragraph 377: gold location "hemoglobin" not included in candidate set.
+[INFO] Paragraph 377: gold location "blood" not included in candidate set.
+Paragraph 381: 
+Location candidate set:  set()
+[INFO] Paragraph 381: gold location "animal cell" not included in candidate set.
+[INFO] Paragraph 381: gold location "cell 's surface" not included in candidate set.
+[INFO] Paragraph 381: gold location "cell" not included in candidate set.
+[INFO] Paragraph 381: gold location "virus" not included in candidate set.
+Paragraph 382: 
+Location candidate set:  set()
+[INFO] Paragraph 382: gold location "body" not included in candidate set.
+[INFO] Paragraph 382: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 382: gold location "cell" not included in candidate set.
+Paragraph 384: 
+Location candidate set:  set()
+[INFO] Paragraph 384: gold location "body" not included in candidate set.
+Paragraph 391: 
+Location candidate set:  set()
+[INFO] Paragraph 391: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 391: gold location "turbine" not included in candidate set.
+[WARNING] Paragraph 391: entity "stream" is not a span in paragraph.
+[INFO] Paragraph 391: gold location "generator" not included in candidate set.
+[INFO] Paragraph 391: gold location "power grid" not included in candidate set.
+Paragraph 392: 
+Location candidate set:  set()
+[INFO] Paragraph 392: gold location "firebox" not included in candidate set.
+[INFO] Paragraph 392: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 392: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 392: gold location "generator" not included in candidate set.
+Paragraph 393: 
+Location candidate set:  set()
+[INFO] Paragraph 393: gold location "heater" not included in candidate set.
+[INFO] Paragraph 393: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 393: gold location "generator" not included in candidate set.
+Paragraph 397: 
+Location candidate set:  set()
+[INFO] Paragraph 397: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 397: gold location "core" not included in candidate set.
+[INFO] Paragraph 397: gold location "rotor" not included in candidate set.
+Paragraph 412: 
+Location candidate set:  set()
+[INFO] Paragraph 412: gold location "auditory nerve" not included in candidate set.
+[INFO] Paragraph 412: gold location "brain" not included in candidate set.
+[INFO] Paragraph 412: gold location "outer ear" not included in candidate set.
+[INFO] Paragraph 412: gold location "ear drum" not included in candidate set.
+[INFO] Paragraph 412: gold location "middle ear" not included in candidate set.
+[INFO] Paragraph 412: gold location "inner ear" not included in candidate set.
+Paragraph 413: 
+Location candidate set:  set()
+[INFO] Paragraph 413: gold location "outer ear" not included in candidate set.
+[INFO] Paragraph 413: gold location "middle ear" not included in candidate set.
+[INFO] Paragraph 413: gold location "inner ear" not included in candidate set.
+[INFO] Paragraph 413: gold location "cochlea" not included in candidate set.
+[INFO] Paragraph 413: gold location "brain" not included in candidate set.
+Paragraph 416: 
+Location candidate set:  set()
+[INFO] Paragraph 416: gold location "break" not included in candidate set.
+[INFO] Paragraph 416: gold location "clot" not included in candidate set.
+[INFO] Paragraph 416: gold location "soft callous" not included in candidate set.
+[INFO] Paragraph 416: gold location "callous" not included in candidate set.
+Paragraph 422: 
+Location candidate set:  set()
+[INFO] Paragraph 422: gold location "coal mine" not included in candidate set.
+[INFO] Paragraph 422: gold location "power station" not included in candidate set.
+[INFO] Paragraph 422: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 422: gold location "cool tower" not included in candidate set.
+[INFO] Paragraph 422: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 422: gold location "generator" not included in candidate set.
+[INFO] Paragraph 422: gold location "transformer" not included in candidate set.
+Paragraph 423: 
+Location candidate set:  set()
+[INFO] Paragraph 423: gold location "mine" not included in candidate set.
+[INFO] Paragraph 423: gold location "cart" not included in candidate set.
+[INFO] Paragraph 423: gold location "cart or on a conveyor belt" not included in candidate set.
+[INFO] Paragraph 423: gold location "surface" not included in candidate set.
+[INFO] Paragraph 423: gold location "truck" not included in candidate set.
+[INFO] Paragraph 423: gold location "power station" not included in candidate set.
+[INFO] Paragraph 423: gold location "mountain" not included in candidate set.
+Paragraph 424: 
+Location candidate set:  set()
+[INFO] Paragraph 424: gold location "pump" not included in candidate set.
+[INFO] Paragraph 424: gold location "tanker truck" not included in candidate set.
+[INFO] Paragraph 424: gold location "oil refinery" not included in candidate set.
+[INFO] Paragraph 424: gold location "gas station" not included in candidate set.
+Paragraph 425: 
+Location candidate set:  set()
+[INFO] Paragraph 425: gold location "refinery" not included in candidate set.
+[INFO] Paragraph 425: gold location "tank truck" not included in candidate set.
+[INFO] Paragraph 425: gold location "gas station" not included in candidate set.
+Paragraph 433: 
+Location candidate set:  set()
+[INFO] Paragraph 433: gold location "hole" not included in candidate set.
+[INFO] Paragraph 433: gold location "dirt" not included in candidate set.
+[WARNING] Paragraph 433: entity "vegetables" is not a span in paragraph.
+Paragraph 435: 
+Location candidate set:  set()
+[INFO] Paragraph 435: gold location "ground" not included in candidate set.
+[INFO] Paragraph 435: gold location "area" not included in candidate set.
+[INFO] Paragraph 435: gold location "plant" not included in candidate set.
+Paragraph 436: 
+Location candidate set:  set()
+[INFO] Paragraph 436: gold location "pot" not included in candidate set.
+[INFO] Paragraph 436: gold location "source of heat" not included in candidate set.
+[INFO] Paragraph 436: gold location "water" not included in candidate set.
+[WARNING] Paragraph 436: entity "boiling water" is not a span in paragraph.
+Paragraph 441: 
+Location candidate set:  set()
+[INFO] Paragraph 441: gold location "air" not included in candidate set.
+[INFO] Paragraph 441: gold location "body" not included in candidate set.
+Paragraph 443: 
+Location candidate set:  set()
+[INFO] Paragraph 443: gold location "flower" not included in candidate set.
+[INFO] Paragraph 443: gold location "another flower" not included in candidate set.
+[INFO] Paragraph 443: gold location "bee" not included in candidate set.
+Paragraph 444: 
+Location candidate set:  set()
+[INFO] Paragraph 444: gold location "flower" not included in candidate set.
+[INFO] Paragraph 444: gold location "bee" not included in candidate set.
+[INFO] Paragraph 444: gold location "staman" not included in candidate set.
+[INFO] Paragraph 444: gold location "stigma" not included in candidate set.
+[WARNING] Paragraph 444: location "staman" is not a span in paragraph.
+[WARNING] Paragraph 444: location "staman" is not a span in paragraph.
+[INFO] Paragraph 444: gold location "bee leg" not included in candidate set.
+[WARNING] Paragraph 444: location "staman" is not a span in paragraph.
+[WARNING] Paragraph 444: location "staman" is not a span in paragraph.
+Paragraph 448: 
+Location candidate set:  set()
+[INFO] Paragraph 448: gold location "magma" not included in candidate set.
+[INFO] Paragraph 448: gold location "bottom of river and ocean" not included in candidate set.
+[INFO] Paragraph 448: gold location "river and ocean" not included in candidate set.
+[INFO] Paragraph 448: gold location "underground" not included in candidate set.
+[INFO] Paragraph 448: gold location "volcano" not included in candidate set.
+Paragraph 449: 
+Location candidate set:  set()
+[INFO] Paragraph 449: gold location "volcano" not included in candidate set.
+[INFO] Paragraph 449: gold location "igneous rock" not included in candidate set.
+[INFO] Paragraph 449: gold location "sediment" not included in candidate set.
+[INFO] Paragraph 449: gold location "sedimentary rock" not included in candidate set.
+[INFO] Paragraph 449: gold location "metamorphic rock" not included in candidate set.
+Paragraph 458: 
+Location candidate set:  set()
+[INFO] Paragraph 458: gold location "human industry" not included in candidate set.
+[INFO] Paragraph 458: gold location "air" not included in candidate set.
+[INFO] Paragraph 458: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 458: gold location "earth" not included in candidate set.
+Paragraph 459: 
+Location candidate set:  set()
+[INFO] Paragraph 459: gold location "air" not included in candidate set.
+[INFO] Paragraph 459: gold location "high atmosphere" not included in candidate set.
+Paragraph 466: 
+Location candidate set:  set()
+[INFO] Paragraph 466: gold location "factory or plant" not included in candidate set.
+Paragraph 468: 
+Location candidate set:  set()
+[INFO] Paragraph 468: gold location "container" not included in candidate set.
+[INFO] Paragraph 468: gold location "second container" not included in candidate set.
+[INFO] Paragraph 468: gold location "another container" not included in candidate set.
+[INFO] Paragraph 468: gold location "first container" not included in candidate set.
+Paragraph 472: 
+Location candidate set:  set()
+[INFO] Paragraph 472: gold location "organism" not included in candidate set.
+[INFO] Paragraph 472: gold location "elsewhere" not included in candidate set.
+[INFO] Paragraph 472: gold location "soil" not included in candidate set.
+[INFO] Paragraph 472: gold location "bone" not included in candidate set.
+[INFO] Paragraph 472: gold location "fossil" not included in candidate set.
+Paragraph 475: 
+Location candidate set:  set()
+[INFO] Paragraph 475: gold location "atmosphere" not included in candidate set.
+Paragraph 476: 
+Location candidate set:  set()
+[INFO] Paragraph 476: gold location "fossil fuel" not included in candidate set.
+[INFO] Paragraph 476: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 476: gold location "earth" not included in candidate set.
+Paragraph 478: 
+Location candidate set:  set()
+[INFO] Paragraph 478: gold location "earth 's atmosphere" not included in candidate set.
+[INFO] Paragraph 478: gold location "land and ocean" not included in candidate set.
+[INFO] Paragraph 478: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 478: gold location "earth" not included in candidate set.
+Paragraph 480: 
+Location candidate set:  set()
+[INFO] Paragraph 480: gold location "sunlight" not included in candidate set.
+[INFO] Paragraph 480: gold location "plant" not included in candidate set.
+Paragraph 482: 
+Location candidate set:  set()
+[INFO] Paragraph 482: gold location "plant" not included in candidate set.
+[INFO] Paragraph 482: gold location "environment" not included in candidate set.
+[INFO] Paragraph 482: gold location "atmosphere" not included in candidate set.
+Paragraph 483: 
+Location candidate set:  set()
+[INFO] Paragraph 483: gold location "evelop" not included in candidate set.
+[INFO] Paragraph 483: gold location "post office" not included in candidate set.
+Paragraph 484: 
+Location candidate set:  set()
+[INFO] Paragraph 484: gold location "mailbox" not included in candidate set.
+[INFO] Paragraph 484: gold location "envelope" not included in candidate set.
+[INFO] Paragraph 484: gold location "letter" not included in candidate set.
+Paragraph 485: 
+Location candidate set:  set()
+[INFO] Paragraph 485: gold location "envelope" not included in candidate set.
+Paragraph 489: 
+Location candidate set:  set()
+[INFO] Paragraph 489: gold location "mouth" not included in candidate set.
+[INFO] Paragraph 489: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 489: gold location "small intestine" not included in candidate set.
+[INFO] Paragraph 489: gold location "colon" not included in candidate set.
+Paragraph 490: 
+Location candidate set:  set()
+[INFO] Paragraph 490: gold location "mouth" not included in candidate set.
+[INFO] Paragraph 490: gold location "esophagus" not included in candidate set.
+[INFO] Paragraph 490: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 490: gold location "small intestine" not included in candidate set.
+[INFO] Paragraph 490: gold location "large intestine" not included in candidate set.
+[INFO] Paragraph 490: gold location "blood stream" not included in candidate set.
+Paragraph 493: 
+Location candidate set:  set()
+[INFO] Paragraph 493: gold location "den" not included in candidate set.
+Paragraph 494: 
+Location candidate set:  set()
+[INFO] Paragraph 494: gold location "place to hibernate" not included in candidate set.
+Paragraph 496: 
+Location candidate set:  set()
+[INFO] Paragraph 496: gold location "body" not included in candidate set.
+[INFO] Paragraph 496: gold location "pore" not included in candidate set.
+Paragraph 499: 
+Location candidate set:  set()
+[INFO] Paragraph 499: gold location "flashlight" not included in candidate set.
+Paragraph 511: 
+Location candidate set:  set()
+[INFO] Paragraph 511: gold location "sun and the earth" not included in candidate set.
+Paragraph 515: 
+Location candidate set:  set()
+[INFO] Paragraph 515: gold location "water" not included in candidate set.
+[INFO] Paragraph 515: gold location "egg" not included in candidate set.
+[INFO] Paragraph 515: gold location "frog" not included in candidate set.
+Paragraph 516: 
+Location candidate set:  set()
+[INFO] Paragraph 516: gold location "water" not included in candidate set.
+[INFO] Paragraph 516: gold location "tadpole" not included in candidate set.
+[INFO] Paragraph 516: gold location "young frog" not included in candidate set.
+[INFO] Paragraph 516: gold location "adult frog" not included in candidate set.
+[INFO] Paragraph 516: gold location "tail" not included in candidate set.
+Paragraph 517: 
+Location candidate set:  set()
+[INFO] Paragraph 517: gold location "tadpole" not included in candidate set.
+[INFO] Paragraph 517: gold location "frog" not included in candidate set.
+[INFO] Paragraph 517: gold location "land" not included in candidate set.
+Paragraph 518: 
+Location candidate set:  set()
+[INFO] Paragraph 518: gold location "hatch" not included in candidate set.
+[INFO] Paragraph 518: gold location "open water" not included in candidate set.
+Paragraph 519: 
+Location candidate set:  set()
+Paragraph 520: 
+Location candidate set:  set()
+Paragraph 521: 
+Location candidate set:  set()
+Paragraph 522: 
+Location candidate set:  set()
+[INFO] Paragraph 522: gold location "nest" not included in candidate set.
+[INFO] Paragraph 522: gold location "bird" not included in candidate set.
+Paragraph 523: 
+Location candidate set:  set()
+[INFO] Paragraph 523: gold location "nest" not included in candidate set.
+Paragraph 524: 
+Location candidate set:  set()
+[INFO] Paragraph 524: gold location "womb" not included in candidate set.
+Paragraph 525: 
+Location candidate set:  set()
+[INFO] Paragraph 525: gold location "woman 's womb" not included in candidate set.
+[INFO] Paragraph 525: gold location "womb" not included in candidate set.
+Paragraph 526: 
+Location candidate set:  set()
+[INFO] Paragraph 526: gold location "nil" not included in candidate set.
+[WARNING] Paragraph 526: location "nil" is not a span in paragraph.
+Paragraph 528: 
+Location candidate set:  set()
+[INFO] Paragraph 528: gold location "inside of the mother rabbit" not included in candidate set.
+Paragraph 529: 
+Location candidate set:  set()
+Paragraph 530: 
+Location candidate set:  set()
+[INFO] Paragraph 530: gold location "environment" not included in candidate set.
+[INFO] Paragraph 530: gold location "plant" not included in candidate set.
+[INFO] Paragraph 530: gold location "flower" not included in candidate set.
+Paragraph 531: 
+Location candidate set:  set()
+[INFO] Paragraph 531: gold location "ground" not included in candidate set.
+Paragraph 532: 
+Location candidate set:  set()
+[INFO] Paragraph 532: gold location "plant" not included in candidate set.
+[INFO] Paragraph 532: gold location "flower" not included in candidate set.
+Paragraph 536: 
+Location candidate set:  set()
+[INFO] Paragraph 536: gold location "body" not included in candidate set.
+[INFO] Paragraph 536: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 536: gold location "blood" not included in candidate set.
+[INFO] Paragraph 536: gold location "urine" not included in candidate set.
+Paragraph 539: 
+Location candidate set:  set()
+[INFO] Paragraph 539: gold location "lung" not included in candidate set.
+[INFO] Paragraph 539: gold location "air" not included in candidate set.
+Paragraph 540: 
+Location candidate set:  set()
+[INFO] Paragraph 540: gold location "bronchiole" not included in candidate set.
+[INFO] Paragraph 540: gold location "alveolu" not included in candidate set.
+[WARNING] Paragraph 540: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 540: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 540: gold location "lung" not included in candidate set.
+[INFO] Paragraph 540: gold location "body" not included in candidate set.
+[WARNING] Paragraph 540: location "alveolu" is not a span in paragraph.
+Paragraph 545: 
+Location candidate set:  set()
+[INFO] Paragraph 545: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 545: gold location "bloodstream" not included in candidate set.
+Paragraph 546: 
+Location candidate set:  set()
+[INFO] Paragraph 546: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 546: gold location "body" not included in candidate set.
+[INFO] Paragraph 546: gold location "blood" not included in candidate set.
+[INFO] Paragraph 546: gold location "bladder" not included in candidate set.
+Paragraph 547: 
+Location candidate set:  set()
+[INFO] Paragraph 547: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 547: gold location "blood" not included in candidate set.
+Paragraph 548: 
+Location candidate set:  set()
+[INFO] Paragraph 548: gold location "liver" not included in candidate set.
+[INFO] Paragraph 548: gold location "blood" not included in candidate set.
+[INFO] Paragraph 548: gold location "intestine or into the kidney" not included in candidate set.
+Paragraph 550: 
+Location candidate set:  set()
+[INFO] Paragraph 550: gold location "liver" not included in candidate set.
+Paragraph 551: 
+Location candidate set:  set()
+[INFO] Paragraph 551: gold location "food" not included in candidate set.
+[INFO] Paragraph 551: gold location "body" not included in candidate set.
+[INFO] Paragraph 551: gold location "pancrea" not included in candidate set.
+Paragraph 552: 
+Location candidate set:  set()
+[INFO] Paragraph 552: gold location "body" not included in candidate set.
+[INFO] Paragraph 552: gold location "digestive system" not included in candidate set.
+[INFO] Paragraph 552: gold location "blood" not included in candidate set.
+Paragraph 555: 
+Location candidate set:  set()
+[INFO] Paragraph 555: gold location "body" not included in candidate set.
+[INFO] Paragraph 555: gold location "bloodstream" not included in candidate set.
+Paragraph 556: 
+Location candidate set:  set()
+[INFO] Paragraph 556: gold location "body" not included in candidate set.
+[INFO] Paragraph 556: gold location "bloodstream" not included in candidate set.
+Paragraph 557: 
+Location candidate set:  set()
+[INFO] Paragraph 557: gold location "grape" not included in candidate set.
+[INFO] Paragraph 557: gold location "container" not included in candidate set.
+Paragraph 563: 
+Location candidate set:  set()
+[INFO] Paragraph 563: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 563: gold location "tank" not included in candidate set.
+[INFO] Paragraph 563: gold location "piston" not included in candidate set.
+Paragraph 565: 
+Location candidate set:  set()
+[INFO] Paragraph 565: gold location "firebox" not included in candidate set.
+[INFO] Paragraph 565: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 565: gold location "cylinder" not included in candidate set.
+[INFO] Paragraph 565: gold location "chimney" not included in candidate set.
+Paragraph 574: 
+Location candidate set:  set()
+[INFO] Paragraph 574: gold location "airport" not included in candidate set.
+[INFO] Paragraph 574: gold location "destination" not included in candidate set.
+[INFO] Paragraph 574: gold location "plane" not included in candidate set.
+Paragraph 584: 
+Location candidate set:  set()
+[INFO] Paragraph 584: gold location "air" not included in candidate set.
+[INFO] Paragraph 584: gold location "cloud" not included in candidate set.
+[WARNING] Paragraph 584: entity "storm" is not a span in paragraph.
+Paragraph 587: 
+Location candidate set:  set()
+[INFO] Paragraph 587: gold location "egg" not included in candidate set.
+[INFO] Paragraph 587: gold location "chrysalis" not included in candidate set.
+Paragraph 588: 
+Location candidate set:  set()
+[INFO] Paragraph 588: gold location "egg" not included in candidate set.
+[INFO] Paragraph 588: gold location "coccoon" not included in candidate set.
+Paragraph 589: 
+Location candidate set:  set()
+[INFO] Paragraph 589: gold location "leaf or plant" not included in candidate set.
+[INFO] Paragraph 589: gold location "leaf" not included in candidate set.
+[WARNING] Paragraph 589: entity "caterpillar" is not a span in paragraph.
+[INFO] Paragraph 589: gold location "pupa" not included in candidate set.
+[INFO] Paragraph 589: gold location "egg" not included in candidate set.
+[INFO] Paragraph 589: gold location "butterfly" not included in candidate set.
+Paragraph 605: 
+Location candidate set:  set()
+[INFO] Paragraph 605: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 605: gold location "ground" not included in candidate set.
+[INFO] Paragraph 605: gold location "rock" not included in candidate set.
+[INFO] Paragraph 605: gold location "vegetation" not included in candidate set.
+Paragraph 607: 
+Location candidate set:  set()
+[INFO] Paragraph 607: gold location "acid rain" not included in candidate set.
+[INFO] Paragraph 607: gold location "stream and lake" not included in candidate set.
+[INFO] Paragraph 607: gold location "soil" not included in candidate set.
+[INFO] Paragraph 607: gold location "tree" not included in candidate set.
+Paragraph 611: 
+Location candidate set:  set()
+[INFO] Paragraph 611: gold location "wound" not included in candidate set.
+Paragraph 615: 
+Location candidate set:  set()
+[INFO] Paragraph 615: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 615: gold location "blood" not included in candidate set.
+Paragraph 616: 
+Location candidate set:  set()
+[INFO] Paragraph 616: gold location "blood" not included in candidate set.
+[INFO] Paragraph 616: gold location "filter" not included in candidate set.
+[INFO] Paragraph 616: gold location "renal artery" not included in candidate set.
+[INFO] Paragraph 616: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 616: gold location "body" not included in candidate set.
+[INFO] Paragraph 616: gold location "bladder" not included in candidate set.
+Paragraph 617: 
+Location candidate set:  set()
+[INFO] Paragraph 617: gold location "human body" not included in candidate set.
+[INFO] Paragraph 617: gold location "lung" not included in candidate set.
+[INFO] Paragraph 617: gold location "alveolu" not included in candidate set.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 617: gold location "air" not included in candidate set.
+[INFO] Paragraph 617: gold location "capillary blood" not included in candidate set.
+[INFO] Paragraph 617: gold location "red blood cell" not included in candidate set.
+[INFO] Paragraph 617: gold location "cell" not included in candidate set.
+[WARNING] Paragraph 617: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 617: gold location "body" not included in candidate set.
+Paragraph 618: 
+Location candidate set:  set()
+[INFO] Paragraph 618: gold location "lung" not included in candidate set.
+[INFO] Paragraph 618: gold location "air" not included in candidate set.
+[INFO] Paragraph 618: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 618: gold location "cell" not included in candidate set.
+Paragraph 619: 
+Location candidate set:  set()
+[INFO] Paragraph 619: gold location "body" not included in candidate set.
+[INFO] Paragraph 619: gold location "lung" not included in candidate set.
+[INFO] Paragraph 619: gold location "hemoglobin" not included in candidate set.
+[INFO] Paragraph 619: gold location "cell" not included in candidate set.
+Paragraph 624: 
+Location candidate set:  set()
+[INFO] Paragraph 624: gold location "liver" not included in candidate set.
+[INFO] Paragraph 624: gold location "intestine" not included in candidate set.
+Paragraph 626: 
+Location candidate set:  set()
+[INFO] Paragraph 626: gold location "pancrea" not included in candidate set.
+[INFO] Paragraph 626: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 626: gold location "blood" not included in candidate set.
+Paragraph 627: 
+Location candidate set:  set()
+[INFO] Paragraph 627: gold location "small intestine" not included in candidate set.
+[INFO] Paragraph 627: gold location "pancrea" not included in candidate set.
+Paragraph 628: 
+Location candidate set:  set()
+[INFO] Paragraph 628: gold location "small intestine" not included in candidate set.
+[INFO] Paragraph 628: gold location "pancrea" not included in candidate set.
+[INFO] Paragraph 628: gold location "bloodstream" not included in candidate set.
+Paragraph 635: 
+Location candidate set:  set()
+[INFO] Paragraph 635: gold location "nest" not included in candidate set.
+[INFO] Paragraph 635: gold location "egg" not included in candidate set.
+[INFO] Paragraph 635: gold location "bird" not included in candidate set.
+Paragraph 636: 
+Location candidate set:  set()
+[INFO] Paragraph 636: gold location "egg" not included in candidate set.
+[INFO] Paragraph 636: gold location "nest" not included in candidate set.
+Paragraph 637: 
+Location candidate set:  set()
+[INFO] Paragraph 637: gold location "nest" not included in candidate set.
+Paragraph 640: 
+Location candidate set:  set()
+Paragraph 641: 
+Location candidate set:  set()
+[INFO] Paragraph 641: gold location "tadpole" not included in candidate set.
+[INFO] Paragraph 641: gold location "frog" not included in candidate set.
+Paragraph 642: 
+Location candidate set:  set()
+[INFO] Paragraph 642: gold location "water" not included in candidate set.
+[INFO] Paragraph 642: gold location "tadpole" not included in candidate set.
+[INFO] Paragraph 642: gold location "froglet" not included in candidate set.
+[INFO] Paragraph 642: gold location "frog" not included in candidate set.
+Paragraph 643: 
+Location candidate set:  set()
+[INFO] Paragraph 643: gold location "tadpole" not included in candidate set.
+[INFO] Paragraph 643: gold location "frog" not included in candidate set.
+Paragraph 644: 
+Location candidate set:  set()
+[INFO] Paragraph 644: gold location "uterus" not included in candidate set.
+[INFO] Paragraph 644: gold location "egg" not included in candidate set.
+[INFO] Paragraph 644: gold location "world" not included in candidate set.
+Paragraph 645: 
+Location candidate set:  set()
+[INFO] Paragraph 645: gold location "fallopian tube" not included in candidate set.
+[INFO] Paragraph 645: gold location "uterus" not included in candidate set.
+Paragraph 647: 
+Location candidate set:  set()
+[INFO] Paragraph 647: gold location "plant" not included in candidate set.
+[INFO] Paragraph 647: gold location "fruit or seedpod" not included in candidate set.
+Paragraph 648: 
+Location candidate set:  set()
+[INFO] Paragraph 648: gold location "plant" not included in candidate set.
+Paragraph 649: 
+Location candidate set:  set()
+[INFO] Paragraph 649: gold location "earth" not included in candidate set.
+Paragraph 652: 
+Location candidate set:  set()
+[WARNING] Paragraph 652: entity "adult rabits" is not a span in paragraph.
+Paragraph 656: 
+Location candidate set:  set()
+[INFO] Paragraph 656: gold location "cocoon" not included in candidate set.
+Paragraph 658: 
+Location candidate set:  set()
+[INFO] Paragraph 658: gold location "carterpillar" not included in candidate set.
+[INFO] Paragraph 658: gold location "chrysalis" not included in candidate set.
+Paragraph 665: 
+Location candidate set:  set()
+Paragraph 666: 
+Location candidate set:  set()
+[INFO] Paragraph 666: gold location "cold surface" not included in candidate set.
+Paragraph 667: 
+Location candidate set:  set()
+[INFO] Paragraph 667: gold location "limestone" not included in candidate set.
+[INFO] Paragraph 667: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 667: gold location "rainwater" not included in candidate set.
+Paragraph 671: 
+Location candidate set:  set()
+[INFO] Paragraph 671: gold location "atmosphere" not included in candidate set.
+Paragraph 674: 
+Location candidate set:  set()
+[INFO] Paragraph 674: gold location "water" not included in candidate set.
+Paragraph 675: 
+Location candidate set:  set()
+[INFO] Paragraph 675: gold location "remain" not included in candidate set.
+[INFO] Paragraph 675: gold location "soft soil or mud" not included in candidate set.
+[INFO] Paragraph 675: gold location "mineral" not included in candidate set.
+Paragraph 676: 
+Location candidate set:  set()
+[INFO] Paragraph 676: gold location "plant" not included in candidate set.
+[INFO] Paragraph 676: gold location "sediment" not included in candidate set.
+[INFO] Paragraph 676: gold location "rock" not included in candidate set.
+[INFO] Paragraph 676: gold location "ground" not included in candidate set.
+Paragraph 681: 
+Location candidate set:  set()
+[INFO] Paragraph 681: gold location "animal" not included in candidate set.
+Paragraph 683: 
+Location candidate set:  set()
+[INFO] Paragraph 683: gold location "sweat gland" not included in candidate set.
+[INFO] Paragraph 683: gold location "pore" not included in candidate set.
+Paragraph 686: 
+Location candidate set:  set()
+[INFO] Paragraph 686: gold location "sunlight" not included in candidate set.
+[INFO] Paragraph 686: gold location "chlorophyll" not included in candidate set.
+[INFO] Paragraph 686: gold location "root" not included in candidate set.
+[INFO] Paragraph 686: gold location "leaf" not included in candidate set.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 686: gold location "atmosphere" not included in candidate set.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 686: location "leaf" is not a span in paragraph.
+Paragraph 687: 
+Location candidate set:  set()
+[INFO] Paragraph 687: gold location "leaf" not included in candidate set.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 687: gold location "sun" not included in candidate set.
+[INFO] Paragraph 687: gold location "chlorophyll" not included in candidate set.
+[INFO] Paragraph 687: gold location "root" not included in candidate set.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 687: gold location "plant" not included in candidate set.
+[INFO] Paragraph 687: gold location "atmosphere" not included in candidate set.
+[WARNING] Paragraph 687: location "leaf" is not a span in paragraph.
+Paragraph 689: 
+Location candidate set:  set()
+[INFO] Paragraph 689: gold location "ground" not included in candidate set.
+[INFO] Paragraph 689: gold location "earth" not included in candidate set.
+Paragraph 690: 
+Location candidate set:  set()
+[INFO] Paragraph 690: gold location "soil" not included in candidate set.
+Paragraph 693: 
+Location candidate set:  set()
+[INFO] Paragraph 693: gold location "atmosphere" not included in candidate set.
+Paragraph 698: 
+Location candidate set:  set()
+[INFO] Paragraph 698: gold location "recycle bin" not included in candidate set.
+[INFO] Paragraph 698: gold location "recycle center" not included in candidate set.
+[WARNING] Paragraph 698: location "recycle bin" is not a span in paragraph.
+[WARNING] Paragraph 698: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 698: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 698: location "recycle center" is not a span in paragraph.
+[WARNING] Paragraph 698: location "recycle center" is not a span in paragraph.
+Paragraph 699: 
+Location candidate set:  set()
+[INFO] Paragraph 699: gold location "recycle bin" not included in candidate set.
+[INFO] Paragraph 699: gold location "treatment plant" not included in candidate set.
+[INFO] Paragraph 699: gold location "mill" not included in candidate set.
+Paragraph 940: 
+Location candidate set:  set()
+[INFO] Paragraph 940: gold location "leaf" not included in candidate set.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 940: gold location "stomata" not included in candidate set.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 940: gold location "atp" not included in candidate set.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+[WARNING] Paragraph 940: location "leaf" is not a span in paragraph.
+Paragraph 941: 
+Location candidate set:  set()
+[INFO] Paragraph 941: gold location "outside the body" not included in candidate set.
+[INFO] Paragraph 941: gold location "lung" not included in candidate set.
+[INFO] Paragraph 941: gold location "air" not included in candidate set.
+[INFO] Paragraph 941: gold location "red blood cell" not included in candidate set.
+[INFO] Paragraph 941: gold location "body" not included in candidate set.
+Paragraph 942: 
+Location candidate set:  set()
+[INFO] Paragraph 942: gold location "mouth" not included in candidate set.
+[INFO] Paragraph 942: gold location "lung" not included in candidate set.
+[INFO] Paragraph 942: gold location "sac" not included in candidate set.
+[INFO] Paragraph 942: gold location "body" not included in candidate set.
+Paragraph 947: 
+Location candidate set:  set()
+[INFO] Paragraph 947: gold location "surface" not included in candidate set.
+[INFO] Paragraph 947: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 947: gold location "surface water" not included in candidate set.
+[INFO] Paragraph 947: gold location "cloud" not included in candidate set.
+Paragraph 948: 
+Location candidate set:  set()
+[INFO] Paragraph 948: gold location "earth" not included in candidate set.
+[INFO] Paragraph 948: gold location "body of water" not included in candidate set.
+[INFO] Paragraph 948: gold location "air" not included in candidate set.
+[WARNING] Paragraph 948: location "air" is not a span in paragraph.
+Paragraph 949: 
+Location candidate set:  set()
+[INFO] Paragraph 949: gold location "lake or ocean" not included in candidate set.
+[INFO] Paragraph 949: gold location "atmosphere" not included in candidate set.
+Paragraph 950: 
+Location candidate set:  set()
+[INFO] Paragraph 950: gold location "crack" not included in candidate set.
+[INFO] Paragraph 950: gold location "crack in rock" not included in candidate set.
+Paragraph 960: 
+Location candidate set:  set()
+[INFO] Paragraph 960: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 960: gold location "turbine" not included in candidate set.
+Paragraph 961: 
+Location candidate set:  set()
+[INFO] Paragraph 961: gold location "boiler" not included in candidate set.
+Paragraph 977: 
+Location candidate set:  set()
+[INFO] Paragraph 977: gold location "ground" not included in candidate set.
+[INFO] Paragraph 977: gold location "sky" not included in candidate set.
+[INFO] Paragraph 977: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 977: gold location "rain" not included in candidate set.
+Paragraph 978: 
+Location candidate set:  set()
+[INFO] Paragraph 978: gold location "coal" not included in candidate set.
+[INFO] Paragraph 978: gold location "atmosphere" not included in candidate set.
+Paragraph 996: 
+Location candidate set:  set()
+[INFO] Paragraph 996: gold location "atmosphere" not included in candidate set.
+Paragraph 1004: 
+Location candidate set:  set()
+[INFO] Paragraph 1004: gold location "faucet" not included in candidate set.
+[INFO] Paragraph 1004: gold location "ice cube tray" not included in candidate set.
+[INFO] Paragraph 1004: gold location "tray" not included in candidate set.
+Paragraph 1005: 
+Location candidate set:  set()
+[INFO] Paragraph 1005: gold location "tray" not included in candidate set.
+Paragraph 1014: 
+Location candidate set:  set()
+[INFO] Paragraph 1014: gold location "cake pan" not included in candidate set.
+[INFO] Paragraph 1014: gold location "oven" not included in candidate set.
+Paragraph 1015: 
+Location candidate set:  set()
+[INFO] Paragraph 1015: gold location "dry ingredient" not included in candidate set.
+[INFO] Paragraph 1015: gold location "dry ingredient ." not included in candidate set.
+[INFO] Paragraph 1015: gold location "grease cake pan" not included in candidate set.
+[INFO] Paragraph 1015: gold location "cake pan" not included in candidate set.
+Paragraph 1016: 
+Location candidate set:  set()
+[INFO] Paragraph 1016: gold location "suitcase" not included in candidate set.
+Paragraph 1025: 
+Location candidate set:  set()
+[INFO] Paragraph 1025: gold location "wheel" not included in candidate set.
+[INFO] Paragraph 1025: gold location "bicycle" not included in candidate set.
+[INFO] Paragraph 1025: gold location "bike" not included in candidate set.
+Paragraph 1028: 
+Location candidate set:  set()
+[INFO] Paragraph 1028: gold location "heating system" not included in candidate set.
+[INFO] Paragraph 1028: gold location "tank" not included in candidate set.
+[INFO] Paragraph 1028: gold location "burner" not included in candidate set.
+[INFO] Paragraph 1028: gold location "furnace" not included in candidate set.
+[INFO] Paragraph 1028: gold location "duct" not included in candidate set.
+[INFO] Paragraph 1028: gold location "room" not included in candidate set.
+Paragraph 1029: 
+Location candidate set:  set()
+[INFO] Paragraph 1029: gold location "store" not included in candidate set.
+[INFO] Paragraph 1029: gold location "house" not included in candidate set.
+[INFO] Paragraph 1029: gold location "stove" not included in candidate set.
+Paragraph 1030: 
+Location candidate set:  set()
+[INFO] Paragraph 1030: gold location "thermostat" not included in candidate set.
+[INFO] Paragraph 1030: gold location "heating system" not included in candidate set.
+[INFO] Paragraph 1030: gold location "tank" not included in candidate set.
+[INFO] Paragraph 1030: gold location "burner" not included in candidate set.
+[INFO] Paragraph 1030: gold location "combustion chamber" not included in candidate set.
+[INFO] Paragraph 1030: gold location "vent , hot water through baseboard , or by steam radiator" not included in candidate set.
+Paragraph 1104: 
+Location candidate set:  set()
+[INFO] Paragraph 1104: gold location "earth crust" not included in candidate set.
+[WARNING] Paragraph 1104: entity "tectonic plates" is not a span in paragraph.
+[INFO] Paragraph 1104: gold location "volcano" not included in candidate set.
+[INFO] Paragraph 1104: gold location "surface" not included in candidate set.
+[INFO] Paragraph 1104: gold location "crust" not included in candidate set.
+Paragraph 1105: 
+Location candidate set:  set()
+[INFO] Paragraph 1105: gold location "underground" not included in candidate set.
+[INFO] Paragraph 1105: gold location "earth 's crust" not included in candidate set.
+[INFO] Paragraph 1105: gold location "high above the ground" not included in candidate set.
+Paragraph 1106: 
+Location candidate set:  set()
+[INFO] Paragraph 1106: gold location "plant" not included in candidate set.
+[INFO] Paragraph 1106: gold location "ground" not included in candidate set.
+Paragraph 1107: 
+Location candidate set:  set()
+[INFO] Paragraph 1107: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1107: gold location "fruit" not included in candidate set.
+[INFO] Paragraph 1107: gold location "plant" not included in candidate set.
+[INFO] Paragraph 1107: gold location "flower" not included in candidate set.
+Paragraph 1127: 
+Location candidate set:  set()
+[INFO] Paragraph 1127: gold location "ocean" not included in candidate set.
+[INFO] Paragraph 1127: gold location "near the surface of the ocean" not included in candidate set.
+[INFO] Paragraph 1127: gold location "outside area" not included in candidate set.
+[INFO] Paragraph 1127: gold location "low pressure area" not included in candidate set.
+[INFO] Paragraph 1127: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 1127: gold location "wind" not included in candidate set.
+Paragraph 1128: 
+Location candidate set:  set()
+Paragraph 1129: 
+Location candidate set:  set()
+[INFO] Paragraph 1129: gold location "ocean" not included in candidate set.
+[INFO] Paragraph 1129: gold location "area of low pressure" not included in candidate set.
+[INFO] Paragraph 1129: gold location "thunderstorm" not included in candidate set.
+Paragraph 1130: 
+Location candidate set:  set()
+[INFO] Paragraph 1130: gold location "tree" not included in candidate set.
+[INFO] Paragraph 1130: gold location "hive" not included in candidate set.
+[INFO] Paragraph 1130: gold location "honeycomb" not included in candidate set.
+[WARNING] Paragraph 1130: entity "nectary , honey , and pollen" is not a span in paragraph.
+Paragraph 1131: 
+Location candidate set:  set()
+[INFO] Paragraph 1131: gold location "out" not included in candidate set.
+[INFO] Paragraph 1131: gold location "hive" not included in candidate set.
+[INFO] Paragraph 1131: gold location "bee" not included in candidate set.
+Paragraph 1132: 
+Location candidate set:  set()
+[INFO] Paragraph 1132: gold location "rock crevice or tree branch" not included in candidate set.
+[INFO] Paragraph 1132: gold location "flower" not included in candidate set.
+[INFO] Paragraph 1132: gold location "hive" not included in candidate set.
+[INFO] Paragraph 1132: gold location "bee" not included in candidate set.
+Paragraph 1136: 
+Location candidate set:  set()
+[INFO] Paragraph 1136: gold location "tree" not included in candidate set.
+Paragraph 1137: 
+Location candidate set:  set()
+[INFO] Paragraph 1137: gold location "hunt territory" not included in candidate set.
+[INFO] Paragraph 1137: gold location "perch" not included in candidate set.
+Paragraph 1138: 
+Location candidate set:  set()
+[INFO] Paragraph 1138: gold location "night" not included in candidate set.
+[INFO] Paragraph 1138: gold location "ground" not included in candidate set.
+[INFO] Paragraph 1138: gold location "talon" not included in candidate set.
+Paragraph 1142: 
+Location candidate set:  set()
+[INFO] Paragraph 1142: gold location "forest" not included in candidate set.
+[INFO] Paragraph 1142: gold location "vicinity" not included in candidate set.
+[INFO] Paragraph 1142: gold location "new habitat" not included in candidate set.
+Paragraph 1143: 
+Location candidate set:  set()
+[INFO] Paragraph 1143: gold location "forest" not included in candidate set.
+[WARNING] Paragraph 1143: entity "animals ' home" is not a span in paragraph.
+Paragraph 1144: 
+Location candidate set:  set()
+[INFO] Paragraph 1144: gold location "forest" not included in candidate set.
+[WARNING] Paragraph 1144: entity "places to hide for animals" is not a span in paragraph.
+Paragraph 1148: 
+Location candidate set:  set()
+[INFO] Paragraph 1148: gold location "photovoltaic cell" not included in candidate set.
+[WARNING] Paragraph 1148: entity "electrictiy" is not a span in paragraph.
+[INFO] Paragraph 1148: gold location "junction between the silicon layer" not included in candidate set.
+Paragraph 1150: 
+Location candidate set:  set()
+[INFO] Paragraph 1150: gold location "photovoltaic cell" not included in candidate set.
+Paragraph 1151: 
+Location candidate set:  set()
+[WARNING] Paragraph 1151: entity "another element" is not a span in paragraph.
+Paragraph 1152: 
+Location candidate set:  set()
+[INFO] Paragraph 1152: gold location "nucleus" not included in candidate set.
+[INFO] Paragraph 1152: gold location "release from the atom" not included in candidate set.
+Paragraph 1153: 
+Location candidate set:  set()
+Paragraph 1154: 
+Location candidate set:  set()
+[INFO] Paragraph 1154: gold location "soil" not included in candidate set.
+[WARNING] Paragraph 1154: entity "the remains of plants and animals" is not a span in paragraph.
+[INFO] Paragraph 1154: gold location "remain" not included in candidate set.
+Paragraph 1155: 
+Location candidate set:  set()
+[INFO] Paragraph 1155: gold location "bottom of ocean , riverbed or swamp" not included in candidate set.
+Paragraph 1156: 
+Location candidate set:  set()
+[INFO] Paragraph 1156: gold location "sea floor" not included in candidate set.
+Paragraph 1158: 
+Location candidate set:  set()
+[INFO] Paragraph 1158: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 1158: gold location "small intestine" not included in candidate set.
+[INFO] Paragraph 1158: gold location "esophagus" not included in candidate set.
+[INFO] Paragraph 1158: gold location "blood stream" not included in candidate set.
+[INFO] Paragraph 1158: gold location "large intestine" not included in candidate set.
+Paragraph 1167: 
+Location candidate set:  set()
+[INFO] Paragraph 1167: gold location "sun" not included in candidate set.
+[INFO] Paragraph 1167: gold location "earth" not included in candidate set.
+[WARNING] Paragraph 1167: entity "sunlight " is not a span in paragraph.
+Paragraph 1169: 
+Location candidate set:  set()
+[INFO] Paragraph 1169: gold location "cell" not included in candidate set.
+[INFO] Paragraph 1169: gold location "center of the cell" not included in candidate set.
+[INFO] Paragraph 1169: gold location "opposite end of the cell" not included in candidate set.
+[INFO] Paragraph 1169: gold location "opposite pole of the cell" not included in candidate set.
+Paragraph 1170: 
+Location candidate set:  set()
+[INFO] Paragraph 1170: gold location "center" not included in candidate set.
+[INFO] Paragraph 1170: gold location "opposite pole" not included in candidate set.
+[WARNING] Paragraph 1170: entity "spindle fiber" is not a span in paragraph.
+Paragraph 1172: 
+Location candidate set:  set()
+[INFO] Paragraph 1172: gold location "liver" not included in candidate set.
+Paragraph 1183: 
+Location candidate set:  set()
+[INFO] Paragraph 1183: gold location "water" not included in candidate set.
+[WARNING] Paragraph 1183: entity "chorine" is not a span in paragraph.
+Paragraph 1184: 
+Location candidate set:  set()
+[INFO] Paragraph 1184: gold location "battery" not included in candidate set.
+[WARNING] Paragraph 1184: entity "electricity" is not a span in paragraph.
+[INFO] Paragraph 1184: gold location "anode" not included in candidate set.
+[INFO] Paragraph 1184: gold location "cathode" not included in candidate set.
+[WARNING] Paragraph 1184: entity "electrons at the cathode" is not a span in paragraph.
+Paragraph 1195: 
+Location candidate set:  set()
+[INFO] Paragraph 1195: gold location "ground" not included in candidate set.
+[INFO] Paragraph 1195: gold location "talon" not included in candidate set.
+Paragraph 1202: 
+Location candidate set:  set()
+[INFO] Paragraph 1202: gold location "cell" not included in candidate set.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[INFO] Paragraph 1202: gold location "cytoplasm" not included in candidate set.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[INFO] Paragraph 1202: gold location "site" not included in candidate set.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1202: location "cell" is not a span in paragraph.
+Paragraph 1203: 
+Location candidate set:  set()
+[INFO] Paragraph 1203: gold location "cell" not included in candidate set.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[INFO] Paragraph 1203: gold location "cytoplasm" not included in candidate set.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+[WARNING] Paragraph 1203: location "cell" is not a span in paragraph.
+Paragraph 1204: 
+Location candidate set:  set()
+[INFO] Paragraph 1204: gold location "nucleus" not included in candidate set.
+[INFO] Paragraph 1204: gold location "ribosome" not included in candidate set.
+[WARNING] Paragraph 1204: location "cell" is not a span in paragraph.
+[INFO] Paragraph 1204: gold location "mrna" not included in candidate set.
+[WARNING] Paragraph 1204: location "cell" is not a span in paragraph.
+Paragraph 1205: 
+Location candidate set:  set()
+[INFO] Paragraph 1205: gold location "you" not included in candidate set.
+[INFO] Paragraph 1205: gold location "wound" not included in candidate set.
+Paragraph 1207: 
+Location candidate set:  set()
+[INFO] Paragraph 1207: gold location "body" not included in candidate set.
+[WARNING] Paragraph 1207: entity "cut" is not a span in paragraph.
+[INFO] Paragraph 1207: gold location "skin" not included in candidate set.
+Paragraph 1208: 
+Location candidate set:  set()
+[INFO] Paragraph 1208: gold location "cylinder" not included in candidate set.
+[WARNING] Paragraph 1208: entity "energy" is not a span in paragraph.
+Paragraph 1213: 
+Location candidate set:  set()
+[INFO] Paragraph 1213: gold location "glaci" not included in candidate set.
+[INFO] Paragraph 1213: gold location "sea" not included in candidate set.
+[WARNING] Paragraph 1213: location "glaci" is not a span in paragraph.
+Paragraph 1214: 
+Location candidate set:  set()
+[INFO] Paragraph 1214: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 1214: gold location "blood" not included in candidate set.
+[INFO] Paragraph 1214: gold location "pancrea" not included in candidate set.
+[INFO] Paragraph 1214: gold location "cell" not included in candidate set.
+Paragraph 1216: 
+Location candidate set:  set()
+[INFO] Paragraph 1216: gold location "stomach" not included in candidate set.
+[INFO] Paragraph 1216: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 1216: gold location "fat , muscle and liver cell" not included in candidate set.
+Paragraph 1217: 
+Location candidate set:  set()
+[INFO] Paragraph 1217: gold location "ground" not included in candidate set.
+[INFO] Paragraph 1217: gold location "tree" not included in candidate set.
+[INFO] Paragraph 1217: gold location "wind , animal , etc . ." not included in candidate set.
+[WARNING] Paragraph 1217: location "wind , animal , etc . ." is not a span in paragraph.
+Paragraph 1218: 
+Location candidate set:  set()
+[INFO] Paragraph 1218: gold location "forest" not included in candidate set.
+[INFO] Paragraph 1218: gold location "dead material" not included in candidate set.
+Paragraph 1219: 
+Location candidate set:  set()
+[INFO] Paragraph 1219: gold location "area" not included in candidate set.
+[INFO] Paragraph 1219: gold location "soil" not included in candidate set.
+Paragraph 1223: 
+Location candidate set:  set()
+[INFO] Paragraph 1223: gold location "fuel source" not included in candidate set.
+[INFO] Paragraph 1223: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 1223: gold location "wire" not included in candidate set.
+[INFO] Paragraph 1223: gold location "home and business" not included in candidate set.
+Paragraph 1224: 
+Location candidate set:  set()
+[INFO] Paragraph 1224: gold location "nuclear plant" not included in candidate set.
+[WARNING] Paragraph 1224: entity "uranium 235" is not a span in paragraph.
+[INFO] Paragraph 1224: gold location "rod contain uranium" not included in candidate set.
+[INFO] Paragraph 1224: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 1224: gold location "generator" not included in candidate set.
+Paragraph 1250: 
+Location candidate set:  set()
+[INFO] Paragraph 1250: gold location "receiver" not included in candidate set.
+[INFO] Paragraph 1250: gold location "wire or cable" not included in candidate set.
+[INFO] Paragraph 1250: gold location "person phone" not included in candidate set.
+Paragraph 1258: 
+Location candidate set:  set()
+[INFO] Paragraph 1258: gold location "star" not included in candidate set.
+[INFO] Paragraph 1258: gold location "core" not included in candidate set.
+Paragraph 1310: 
+Location candidate set:  set()
+[INFO] Paragraph 1310: gold location "squirrel" not included in candidate set.
+[INFO] Paragraph 1310: gold location "near its den" not included in candidate set.
+Paragraph 1314: 
+Location candidate set:  set()
+[INFO] Paragraph 1314: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1314: gold location "shoot" not included in candidate set.
+[INFO] Paragraph 1314: gold location "tree" not included in candidate set.
+[INFO] Paragraph 1314: gold location "flower or fruit" not included in candidate set.
+Paragraph 1333: 
+Location candidate set:  set()
+[INFO] Paragraph 1333: gold location "magnetron" not included in candidate set.
+[INFO] Paragraph 1333: gold location "wave guide" not included in candidate set.
+[INFO] Paragraph 1333: gold location "food compartment" not included in candidate set.
+[INFO] Paragraph 1333: gold location "food" not included in candidate set.
+Paragraph 701: 
+Location candidate set:  set()
+[INFO] Paragraph 701: gold location "sun" not included in candidate set.
+[INFO] Paragraph 701: gold location "earth" not included in candidate set.
+[INFO] Paragraph 701: gold location "atmosphere" not included in candidate set.
+Paragraph 702: 
+Location candidate set:  set()
+[INFO] Paragraph 702: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 702: gold location "sun light" not included in candidate set.
+[INFO] Paragraph 702: gold location "gas" not included in candidate set.
+Paragraph 703: 
+Location candidate set:  set()
+[INFO] Paragraph 703: gold location "air" not included in candidate set.
+[INFO] Paragraph 703: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 703: gold location "sun" not included in candidate set.
+[WARNING] Paragraph 703: entity "energy from sun" is not a span in paragraph.
+[INFO] Paragraph 703: gold location "ground" not included in candidate set.
+[INFO] Paragraph 703: gold location "earth" not included in candidate set.
+Paragraph 704: 
+Location candidate set:  set()
+[INFO] Paragraph 704: gold location "envelope" not included in candidate set.
+[WARNING] Paragraph 704: entity "writing tool" is not a span in paragraph.
+[INFO] Paragraph 704: gold location "letter" not included in candidate set.
+[INFO] Paragraph 704: gold location "recipient" not included in candidate set.
+[INFO] Paragraph 704: gold location "post office" not included in candidate set.
+Paragraph 705: 
+Location candidate set:  set()
+[INFO] Paragraph 705: gold location "envelope" not included in candidate set.
+[WARNING] Paragraph 705: entity "peice of paper" is not a span in paragraph.
+[INFO] Paragraph 705: gold location "post office" not included in candidate set.
+Paragraph 706: 
+Location candidate set:  set()
+[INFO] Paragraph 706: gold location "envelope" not included in candidate set.
+[INFO] Paragraph 706: gold location "paper" not included in candidate set.
+[INFO] Paragraph 706: gold location "mailbox" not included in candidate set.
+[INFO] Paragraph 706: gold location "letter carrier" not included in candidate set.
+Paragraph 720: 
+Location candidate set:  set()
+[INFO] Paragraph 720: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 720: gold location "ocean" not included in candidate set.
+[INFO] Paragraph 720: gold location "air" not included in candidate set.
+[WARNING] Paragraph 720: entity "condensed water" is not a span in paragraph.
+Paragraph 721: 
+Location candidate set:  set()
+[INFO] Paragraph 721: gold location "warm air" not included in candidate set.
+[INFO] Paragraph 721: gold location "air" not included in candidate set.
+Paragraph 731: 
+Location candidate set:  set()
+[INFO] Paragraph 731: gold location "soil and bedrock" not included in candidate set.
+Paragraph 737: 
+Location candidate set:  set()
+[INFO] Paragraph 737: gold location "vegetation" not included in candidate set.
+[INFO] Paragraph 737: gold location "someplace else" not included in candidate set.
+[INFO] Paragraph 737: gold location "animal" not included in candidate set.
+[INFO] Paragraph 737: gold location "new place" not included in candidate set.
+Paragraph 739: 
+Location candidate set:  set()
+[INFO] Paragraph 739: gold location "plant" not included in candidate set.
+[INFO] Paragraph 739: gold location "location" not included in candidate set.
+[INFO] Paragraph 739: gold location "fur" not included in candidate set.
+[INFO] Paragraph 739: gold location "tree" not included in candidate set.
+[INFO] Paragraph 739: gold location "animal" not included in candidate set.
+Paragraph 742: 
+Location candidate set:  set()
+[INFO] Paragraph 742: gold location "bat" not included in candidate set.
+[INFO] Paragraph 742: gold location "object" not included in candidate set.
+[INFO] Paragraph 742: gold location "bat 's ear" not included in candidate set.
+Paragraph 743: 
+Location candidate set:  set()
+[INFO] Paragraph 743: gold location "flower" not included in candidate set.
+[INFO] Paragraph 743: gold location "another plant" not included in candidate set.
+[INFO] Paragraph 743: gold location "bee" not included in candidate set.
+Paragraph 744: 
+Location candidate set:  set()
+[INFO] Paragraph 744: gold location "flower" not included in candidate set.
+[INFO] Paragraph 744: gold location "another area" not included in candidate set.
+[INFO] Paragraph 744: gold location "bee 's fur" not included in candidate set.
+[INFO] Paragraph 744: gold location "area" not included in candidate set.
+Paragraph 745: 
+Location candidate set:  set()
+[INFO] Paragraph 745: gold location "flower" not included in candidate set.
+[INFO] Paragraph 745: gold location "different flower" not included in candidate set.
+[INFO] Paragraph 745: gold location "hair on the bee leg" not included in candidate set.
+Paragraph 746: 
+Location candidate set:  set()
+[INFO] Paragraph 746: gold location "limestone" not included in candidate set.
+[INFO] Paragraph 746: gold location "ground" not included in candidate set.
+[INFO] Paragraph 746: gold location "cave" not included in candidate set.
+Paragraph 747: 
+Location candidate set:  set()
+[INFO] Paragraph 747: gold location "soil" not included in candidate set.
+[INFO] Paragraph 747: gold location "rock" not included in candidate set.
+[INFO] Paragraph 747: gold location "cavern" not included in candidate set.
+Paragraph 769: 
+Location candidate set:  set()
+[INFO] Paragraph 769: gold location "leaf" not included in candidate set.
+[WARNING] Paragraph 769: location "leaf" is not a span in paragraph.
+[INFO] Paragraph 769: gold location "plant" not included in candidate set.
+[WARNING] Paragraph 769: location "leaf" is not a span in paragraph.
+Paragraph 770: 
+Location candidate set:  set()
+[INFO] Paragraph 770: gold location "you" not included in candidate set.
+[INFO] Paragraph 770: gold location "bronchial tube" not included in candidate set.
+[INFO] Paragraph 770: gold location "bronchiole" not included in candidate set.
+[INFO] Paragraph 770: gold location "alveolu" not included in candidate set.
+[WARNING] Paragraph 770: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 770: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 770: gold location "air" not included in candidate set.
+[INFO] Paragraph 770: gold location "blood vessel" not included in candidate set.
+[INFO] Paragraph 770: gold location "blood" not included in candidate set.
+[WARNING] Paragraph 770: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 770: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 770: gold location "lung" not included in candidate set.
+[INFO] Paragraph 770: gold location "body" not included in candidate set.
+Paragraph 771: 
+Location candidate set:  set()
+[INFO] Paragraph 771: gold location "nose or mouth" not included in candidate set.
+[INFO] Paragraph 771: gold location "windpipe" not included in candidate set.
+[INFO] Paragraph 771: gold location "lung" not included in candidate set.
+[INFO] Paragraph 771: gold location "every cell in the body" not included in candidate set.
+[INFO] Paragraph 771: gold location "blood" not included in candidate set.
+Paragraph 772: 
+Location candidate set:  set()
+[INFO] Paragraph 772: gold location "mouth" not included in candidate set.
+[INFO] Paragraph 772: gold location "esophagus" not included in candidate set.
+[INFO] Paragraph 772: gold location "lung" not included in candidate set.
+[INFO] Paragraph 772: gold location "body" not included in candidate set.
+Paragraph 773: 
+Location candidate set:  set()
+[INFO] Paragraph 773: gold location "crust" not included in candidate set.
+[INFO] Paragraph 773: gold location "surface" not included in candidate set.
+[INFO] Paragraph 773: gold location "water" not included in candidate set.
+Paragraph 775: 
+Location candidate set:  set()
+[INFO] Paragraph 775: gold location "inside the earth" not included in candidate set.
+[INFO] Paragraph 775: gold location "earth 's crust" not included in candidate set.
+[INFO] Paragraph 775: gold location "earth 's surface" not included in candidate set.
+Paragraph 779: 
+Location candidate set:  set()
+[INFO] Paragraph 779: gold location "plant" not included in candidate set.
+[INFO] Paragraph 779: gold location "atmosphere" not included in candidate set.
+Paragraph 782: 
+Location candidate set:  set()
+[INFO] Paragraph 782: gold location "plant" not included in candidate set.
+[INFO] Paragraph 782: gold location "air" not included in candidate set.
+[INFO] Paragraph 782: gold location "area" not included in candidate set.
+[INFO] Paragraph 782: gold location "fur of animal" not included in candidate set.
+[INFO] Paragraph 782: gold location "ground" not included in candidate set.
+Paragraph 783: 
+Location candidate set:  set()
+[INFO] Paragraph 783: gold location "plant" not included in candidate set.
+[INFO] Paragraph 783: gold location "animal" not included in candidate set.
+[INFO] Paragraph 783: gold location "fruit" not included in candidate set.
+[INFO] Paragraph 783: gold location "digestive system" not included in candidate set.
+[INFO] Paragraph 783: gold location "drop" not included in candidate set.
+[INFO] Paragraph 783: gold location "another location" not included in candidate set.
+[WARNING] Paragraph 783: location "drop" is not a span in paragraph.
+Paragraph 784: 
+Location candidate set:  set()
+[INFO] Paragraph 784: gold location "plant" not included in candidate set.
+[INFO] Paragraph 784: gold location "fruit" not included in candidate set.
+[INFO] Paragraph 784: gold location "animal" not included in candidate set.
+[INFO] Paragraph 784: gold location "waste" not included in candidate set.
+Paragraph 794: 
+Location candidate set:  set()
+[INFO] Paragraph 794: gold location "lung" not included in candidate set.
+[INFO] Paragraph 794: gold location "bronchiole" not included in candidate set.
+[INFO] Paragraph 794: gold location "alveolu" not included in candidate set.
+[WARNING] Paragraph 794: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 794: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 794: gold location "small blood vessel" not included in candidate set.
+[INFO] Paragraph 794: gold location "every cell in the body" not included in candidate set.
+[WARNING] Paragraph 794: location "alveolu" is not a span in paragraph.
+[WARNING] Paragraph 794: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 794: gold location "blood" not included in candidate set.
+[INFO] Paragraph 794: gold location "air" not included in candidate set.
+Paragraph 795: 
+Location candidate set:  set()
+[INFO] Paragraph 795: gold location "lung" not included in candidate set.
+[INFO] Paragraph 795: gold location "alveolu" not included in candidate set.
+[WARNING] Paragraph 795: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 795: gold location "capillary" not included in candidate set.
+[INFO] Paragraph 795: gold location "bloodstream" not included in candidate set.
+[WARNING] Paragraph 795: location "alveolu" is not a span in paragraph.
+[INFO] Paragraph 795: gold location "out" not included in candidate set.
+Paragraph 796: 
+Location candidate set:  set()
+[INFO] Paragraph 796: gold location "mouth" not included in candidate set.
+[INFO] Paragraph 796: gold location "lung" not included in candidate set.
+[INFO] Paragraph 796: gold location "bronchial tissue" not included in candidate set.
+[INFO] Paragraph 796: gold location "air" not included in candidate set.
+[INFO] Paragraph 796: gold location "body" not included in candidate set.
+Paragraph 807: 
+Location candidate set:  set()
+[INFO] Paragraph 807: gold location "tray" not included in candidate set.
+[INFO] Paragraph 807: gold location "ice cube tray" not included in candidate set.
+[INFO] Paragraph 807: gold location "freezer" not included in candidate set.
+Paragraph 808: 
+Location candidate set:  set()
+[INFO] Paragraph 808: gold location "ice cube tray" not included in candidate set.
+Paragraph 817: 
+Location candidate set:  set()
+[INFO] Paragraph 817: gold location "battery" not included in candidate set.
+[INFO] Paragraph 817: gold location "motor" not included in candidate set.
+Paragraph 821: 
+Location candidate set:  set()
+[INFO] Paragraph 821: gold location "furnace" not included in candidate set.
+[INFO] Paragraph 821: gold location "power station" not included in candidate set.
+[WARNING] Paragraph 821: location "power station" is not a span in paragraph.
+[WARNING] Paragraph 821: location "power station" is not a span in paragraph.
+[INFO] Paragraph 821: gold location "generator" not included in candidate set.
+[WARNING] Paragraph 821: location "power station" is not a span in paragraph.
+Paragraph 823: 
+Location candidate set:  set()
+[INFO] Paragraph 823: gold location "power station" not included in candidate set.
+[INFO] Paragraph 823: gold location "firebox" not included in candidate set.
+[INFO] Paragraph 823: gold location "pipe" not included in candidate set.
+[INFO] Paragraph 823: gold location "separate area" not included in candidate set.
+[INFO] Paragraph 823: gold location "turbine" not included in candidate set.
+Paragraph 828: 
+Location candidate set:  set()
+[INFO] Paragraph 828: gold location "oven" not included in candidate set.
+[INFO] Paragraph 828: gold location "tank" not included in candidate set.
+[INFO] Paragraph 828: gold location "piston" not included in candidate set.
+[INFO] Paragraph 828: gold location "next piston" not included in candidate set.
+Paragraph 830: 
+Location candidate set:  set()
+[INFO] Paragraph 830: gold location "flu virus" not included in candidate set.
+[INFO] Paragraph 830: gold location "target cell" not included in candidate set.
+[INFO] Paragraph 830: gold location "cell" not included in candidate set.
+Paragraph 834: 
+Location candidate set:  set()
+[INFO] Paragraph 834: gold location "host body" not included in candidate set.
+[INFO] Paragraph 834: gold location "cell" not included in candidate set.
+Paragraph 842: 
+Location candidate set:  set()
+[INFO] Paragraph 842: gold location "electromagnet" not included in candidate set.
+[INFO] Paragraph 842: gold location "wire" not included in candidate set.
+[INFO] Paragraph 842: gold location "metal" not included in candidate set.
+[INFO] Paragraph 842: gold location "power source" not included in candidate set.
+Paragraph 844: 
+Location candidate set:  set()
+[INFO] Paragraph 844: gold location "around a piece of metal" not included in candidate set.
+[INFO] Paragraph 844: gold location "battery" not included in candidate set.
+[INFO] Paragraph 844: gold location "wire" not included in candidate set.
+Paragraph 846: 
+Location candidate set:  set()
+[INFO] Paragraph 846: gold location "body" not included in candidate set.
+[INFO] Paragraph 846: gold location "liver" not included in candidate set.
+[INFO] Paragraph 846: gold location "blood" not included in candidate set.
+[INFO] Paragraph 846: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 846: gold location "lung" not included in candidate set.
+Paragraph 852: 
+Location candidate set:  set()
+[INFO] Paragraph 852: gold location "pulverizer" not included in candidate set.
+[INFO] Paragraph 852: gold location "furnace" not included in candidate set.
+[INFO] Paragraph 852: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 852: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 852: gold location "generator" not included in candidate set.
+Paragraph 867: 
+Location candidate set:  set()
+[INFO] Paragraph 867: gold location "air" not included in candidate set.
+[INFO] Paragraph 867: gold location "bread" not included in candidate set.
+Paragraph 872: 
+Location candidate set:  set()
+[INFO] Paragraph 872: gold location "earth" not included in candidate set.
+[INFO] Paragraph 872: gold location "pipe" not included in candidate set.
+[INFO] Paragraph 872: gold location "barrel" not included in candidate set.
+[INFO] Paragraph 872: gold location "refinery" not included in candidate set.
+[INFO] Paragraph 872: gold location "bottle" not included in candidate set.
+[INFO] Paragraph 872: gold location "gas station" not included in candidate set.
+Paragraph 873: 
+Location candidate set:  set()
+[INFO] Paragraph 873: gold location "oil rig" not included in candidate set.
+[INFO] Paragraph 873: gold location "refinery" not included in candidate set.
+[INFO] Paragraph 873: gold location "tank truck" not included in candidate set.
+[INFO] Paragraph 873: gold location "gas station" not included in candidate set.
+Paragraph 874: 
+Location candidate set:  set()
+[INFO] Paragraph 874: gold location "ground" not included in candidate set.
+[INFO] Paragraph 874: gold location "factory" not included in candidate set.
+[INFO] Paragraph 874: gold location "truck" not included in candidate set.
+[INFO] Paragraph 874: gold location "gas station" not included in candidate set.
+Paragraph 876: 
+Location candidate set:  set()
+[INFO] Paragraph 876: gold location "ocean , river and lake" not included in candidate set.
+[INFO] Paragraph 876: gold location "atmosphere" not included in candidate set.
+[INFO] Paragraph 876: gold location "ground" not included in candidate set.
+Paragraph 877: 
+Location candidate set:  set()
+[INFO] Paragraph 877: gold location "high cold air" not included in candidate set.
+[INFO] Paragraph 877: gold location "air" not included in candidate set.
+[INFO] Paragraph 877: gold location "cloud" not included in candidate set.
+Paragraph 879: 
+Location candidate set:  set()
+[INFO] Paragraph 879: gold location "air" not included in candidate set.
+[INFO] Paragraph 879: gold location "land" not included in candidate set.
+Paragraph 880: 
+Location candidate set:  set()
+[INFO] Paragraph 880: gold location "air" not included in candidate set.
+[INFO] Paragraph 880: gold location "atmosphere" not included in candidate set.
+Paragraph 882: 
+Location candidate set:  set()
+[INFO] Paragraph 882: gold location "recycle container" not included in candidate set.
+[INFO] Paragraph 882: gold location "recycle truck" not included in candidate set.
+[INFO] Paragraph 882: gold location "recycle plant" not included in candidate set.
+[WARNING] Paragraph 882: location "recycle container" is not a span in paragraph.
+[WARNING] Paragraph 882: location "recycle plant" is not a span in paragraph.
+[WARNING] Paragraph 882: location "recycle plant" is not a span in paragraph.
+[WARNING] Paragraph 882: location "recycle plant" is not a span in paragraph.
+[WARNING] Paragraph 882: location "recycle plant" is not a span in paragraph.
+[INFO] Paragraph 882: gold location "manufacture" not included in candidate set.
+Paragraph 892: 
+Location candidate set:  set()
+[INFO] Paragraph 892: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 892: gold location "ground" not included in candidate set.
+Paragraph 893: 
+Location candidate set:  set()
+[INFO] Paragraph 893: gold location "pancrea" not included in candidate set.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[INFO] Paragraph 893: gold location "blood" not included in candidate set.
+[INFO] Paragraph 893: gold location "body" not included in candidate set.
+[INFO] Paragraph 893: gold location "liver" not included in candidate set.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+[WARNING] Paragraph 893: location "pancrea" is not a span in paragraph.
+Paragraph 894: 
+Location candidate set:  set()
+[INFO] Paragraph 894: gold location "pancrease" not included in candidate set.
+[INFO] Paragraph 894: gold location "liver" not included in candidate set.
+[INFO] Paragraph 894: gold location "blood" not included in candidate set.
+Paragraph 900: 
+Location candidate set:  set()
+[INFO] Paragraph 900: gold location "outer ear" not included in candidate set.
+[INFO] Paragraph 900: gold location "middle ear" not included in candidate set.
+[INFO] Paragraph 900: gold location "eardrum" not included in candidate set.
+[INFO] Paragraph 900: gold location "inner ear" not included in candidate set.
+[INFO] Paragraph 900: gold location "cochlea" not included in candidate set.
+[INFO] Paragraph 900: gold location "brain" not included in candidate set.
+Paragraph 901: 
+Location candidate set:  set()
+[INFO] Paragraph 901: gold location "ear" not included in candidate set.
+[INFO] Paragraph 901: gold location "drum" not included in candidate set.
+[INFO] Paragraph 901: gold location "brain" not included in candidate set.
+Paragraph 905: 
+Location candidate set:  set()
+[INFO] Paragraph 905: gold location "food" not included in candidate set.
+[INFO] Paragraph 905: gold location "saliva" not included in candidate set.
+[INFO] Paragraph 905: gold location "tooth" not included in candidate set.
+[INFO] Paragraph 905: gold location "stomach" not included in candidate set.
+Paragraph 908: 
+Location candidate set:  set()
+[INFO] Paragraph 908: gold location "rock" not included in candidate set.
+Paragraph 915: 
+Location candidate set:  set()
+[INFO] Paragraph 915: gold location "fluid" not included in candidate set.
+[INFO] Paragraph 915: gold location "earth" not included in candidate set.
+[WARNING] Paragraph 915: location "earth" is not a span in paragraph.
+[WARNING] Paragraph 915: location "earth" is not a span in paragraph.
+[WARNING] Paragraph 915: location "earth" is not a span in paragraph.
+[WARNING] Paragraph 915: location "earth" is not a span in paragraph.
+[WARNING] Paragraph 915: location "earth" is not a span in paragraph.
+[INFO] Paragraph 915: gold location "body of water" not included in candidate set.
+[WARNING] Paragraph 915: location "ebody of water" is not a span in paragraph.
+Paragraph 916: 
+Location candidate set:  set()
+[INFO] Paragraph 916: gold location "soil" not included in candidate set.
+[INFO] Paragraph 916: gold location "river" not included in candidate set.
+[INFO] Paragraph 916: gold location "lake and the ocean" not included in candidate set.
+[INFO] Paragraph 916: gold location "around the world" not included in candidate set.
+Paragraph 917: 
+Location candidate set:  set()
+[INFO] Paragraph 917: gold location "crust of the earth" not included in candidate set.
+[INFO] Paragraph 917: gold location "seismic wave" not included in candidate set.
+[INFO] Paragraph 917: gold location "earth" not included in candidate set.
+Paragraph 919: 
+Location candidate set:  set()
+[INFO] Paragraph 919: gold location "earth 's crust" not included in candidate set.
+[INFO] Paragraph 919: gold location "plate" not included in candidate set.
+[INFO] Paragraph 919: gold location "earth" not included in candidate set.
+Paragraph 920: 
+Location candidate set:  set()
+[INFO] Paragraph 920: gold location "beneath the earth" not included in candidate set.
+[INFO] Paragraph 920: gold location "surface" not included in candidate set.
+Paragraph 921: 
+Location candidate set:  set()
+[INFO] Paragraph 921: gold location "surface" not included in candidate set.
+[INFO] Paragraph 921: gold location "crack in the earth 's crust" not included in candidate set.
+[INFO] Paragraph 921: gold location "plate" not included in candidate set.
+[INFO] Paragraph 921: gold location "new crust" not included in candidate set.
+Paragraph 922: 
+Location candidate set:  set()
+[INFO] Paragraph 922: gold location "earth 's crust" not included in candidate set.
+[INFO] Paragraph 922: gold location "inside the earth 's crust" not included in candidate set.
+[INFO] Paragraph 922: gold location "magma chamber" not included in candidate set.
+[INFO] Paragraph 922: gold location "volcano" not included in candidate set.
+Paragraph 923: 
+Location candidate set:  set()
+[INFO] Paragraph 923: gold location "lung" not included in candidate set.
+[INFO] Paragraph 923: gold location "vocal chord" not included in candidate set.
+[INFO] Paragraph 923: gold location "environment" not included in candidate set.
+[INFO] Paragraph 923: gold location "bloodstream" not included in candidate set.
+Paragraph 924: 
+Location candidate set:  set()
+[INFO] Paragraph 924: gold location "mouth and nose" not included in candidate set.
+[INFO] Paragraph 924: gold location "lung" not included in candidate set.
+[INFO] Paragraph 924: gold location "air" not included in candidate set.
+[INFO] Paragraph 924: gold location "capillary" not included in candidate set.
+[INFO] Paragraph 924: gold location "heart" not included in candidate set.
+[INFO] Paragraph 924: gold location "body" not included in candidate set.
+Paragraph 925: 
+Location candidate set:  set()
+[INFO] Paragraph 925: gold location "air" not included in candidate set.
+[INFO] Paragraph 925: gold location "bloodstream" not included in candidate set.
+[INFO] Paragraph 925: gold location "cell" not included in candidate set.
+[INFO] Paragraph 925: gold location "lung" not included in candidate set.
+Paragraph 930: 
+Location candidate set:  set()
+[INFO] Paragraph 930: gold location "ground" not included in candidate set.
+[INFO] Paragraph 930: gold location "magma chamber" not included in candidate set.
+[INFO] Paragraph 930: gold location "weak point in the volcano" not included in candidate set.
+[INFO] Paragraph 930: gold location "air" not included in candidate set.
+[INFO] Paragraph 930: gold location "volcano" not included in candidate set.
+Paragraph 931: 
+Location candidate set:  set()
+[INFO] Paragraph 931: gold location "surround rock" not included in candidate set.
+[INFO] Paragraph 931: gold location "weak spot in the earth 's surface" not included in candidate set.
+[INFO] Paragraph 931: gold location "magma" not included in candidate set.
+[INFO] Paragraph 931: gold location "earth 's surface" not included in candidate set.
+Paragraph 935: 
+Location candidate set:  set()
+[INFO] Paragraph 935: gold location "land" not included in candidate set.
+[INFO] Paragraph 935: gold location "beach" not included in candidate set.
+[INFO] Paragraph 935: gold location "cliff" not included in candidate set.
+[INFO] Paragraph 935: gold location "ocean" not included in candidate set.
+Paragraph 936: 
+Location candidate set:  set()
+[INFO] Paragraph 936: gold location "coast" not included in candidate set.
+Paragraph 938: 
+Location candidate set:  set()
+[INFO] Paragraph 938: gold location "chlorophyll" not included in candidate set.
+[INFO] Paragraph 938: gold location "plant" not included in candidate set.
+[INFO] Paragraph 938: gold location "air" not included in candidate set.
+[INFO] Paragraph 938: gold location "soil" not included in candidate set.
+Paragraph 939: 
+Location candidate set:  set()
+[INFO] Paragraph 939: gold location "stomata" not included in candidate set.
+[INFO] Paragraph 939: gold location "root" not included in candidate set.
+[INFO] Paragraph 939: gold location "green chemical in the leaf" not included in candidate set.
+[WARNING] Paragraph 939: location "green chemical in the leaf" is not a span in paragraph.
+Paragraph 1046: 
+Location candidate set:  set()
+[INFO] Paragraph 1046: gold location "dishwasher" not included in candidate set.
+[INFO] Paragraph 1046: gold location "rinse" not included in candidate set.
+[INFO] Paragraph 1046: gold location "rack" not included in candidate set.
+Paragraph 1047: 
+Location candidate set:  set()
+[INFO] Paragraph 1047: gold location "dishwasher" not included in candidate set.
+[INFO] Paragraph 1047: gold location "detergent dispenser" not included in candidate set.
+Paragraph 1048: 
+Location candidate set:  set()
+[INFO] Paragraph 1048: gold location "dishwasher" not included in candidate set.
+[INFO] Paragraph 1048: gold location "top rack" not included in candidate set.
+[INFO] Paragraph 1048: gold location "bottom rack" not included in candidate set.
+[INFO] Paragraph 1048: gold location "utensil basket" not included in candidate set.
+[INFO] Paragraph 1048: gold location "detergent holder" not included in candidate set.
+Paragraph 1049: 
+Location candidate set:  set()
+[INFO] Paragraph 1049: gold location "iron" not included in candidate set.
+[INFO] Paragraph 1049: gold location "air" not included in candidate set.
+[WARNING] Paragraph 1049: entity "carbon acid" is not a span in paragraph.
+Paragraph 1051: 
+Location candidate set:  set()
+[INFO] Paragraph 1051: gold location "iron" not included in candidate set.
+Paragraph 1053: 
+Location candidate set:  set()
+[INFO] Paragraph 1053: gold location "greenhouse" not included in candidate set.
+[INFO] Paragraph 1053: gold location "plant and floor" not included in candidate set.
+[INFO] Paragraph 1053: gold location "top" not included in candidate set.
+[INFO] Paragraph 1053: gold location "bottom" not included in candidate set.
+Paragraph 1055: 
+Location candidate set:  set()
+[INFO] Paragraph 1055: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1055: gold location "root structure" not included in candidate set.
+[INFO] Paragraph 1055: gold location "plant circulatory system" not included in candidate set.
+Paragraph 1058: 
+Location candidate set:  set()
+[INFO] Paragraph 1058: gold location "dishwasher" not included in candidate set.
+[INFO] Paragraph 1058: gold location "jet" not included in candidate set.
+Paragraph 1059: 
+Location candidate set:  set()
+[INFO] Paragraph 1059: gold location "bottom" not included in candidate set.
+[INFO] Paragraph 1059: gold location "pipe" not included in candidate set.
+[INFO] Paragraph 1059: gold location "paddle" not included in candidate set.
+[INFO] Paragraph 1059: gold location "dishwasher" not included in candidate set.
+[INFO] Paragraph 1059: gold location "filter" not included in candidate set.
+[WARNING] Paragraph 1059: location "dishwasher" is not a span in paragraph.
+[INFO] Paragraph 1059: gold location "dish" not included in candidate set.
+Paragraph 1060: 
+Location candidate set:  set()
+[INFO] Paragraph 1060: gold location "dishwasher" not included in candidate set.
+[INFO] Paragraph 1060: gold location "dish" not included in candidate set.
+Paragraph 1061: 
+Location candidate set:  set()
+[INFO] Paragraph 1061: gold location "space" not included in candidate set.
+[INFO] Paragraph 1061: gold location "plan ." not included in candidate set.
+[WARNING] Paragraph 1061: location "plan ." is not a span in paragraph.
+Paragraph 1062: 
+Location candidate set:  set()
+[INFO] Paragraph 1062: gold location "rocket" not included in candidate set.
+[INFO] Paragraph 1062: gold location "orbit" not included in candidate set.
+[INFO] Paragraph 1062: gold location "satellite" not included in candidate set.
+[INFO] Paragraph 1062: gold location "space" not included in candidate set.
+[WARNING] Paragraph 1062: location "space" is not a span in paragraph.
+[WARNING] Paragraph 1062: location "space" is not a span in paragraph.
+Paragraph 1063: 
+Location candidate set:  set()
+[INFO] Paragraph 1063: gold location "capsule" not included in candidate set.
+[INFO] Paragraph 1063: gold location "rocket" not included in candidate set.
+[INFO] Paragraph 1063: gold location "space" not included in candidate set.
+Paragraph 1064: 
+Location candidate set:  set()
+[INFO] Paragraph 1064: gold location "air" not included in candidate set.
+[INFO] Paragraph 1064: gold location "ground" not included in candidate set.
+Paragraph 1065: 
+Location candidate set:  set()
+[INFO] Paragraph 1065: gold location "adult mushroom" not included in candidate set.
+[INFO] Paragraph 1065: gold location "air" not included in candidate set.
+[INFO] Paragraph 1065: gold location "hospitable grow environment" not included in candidate set.
+[INFO] Paragraph 1065: gold location "soil" not included in candidate set.
+Paragraph 1066: 
+Location candidate set:  set()
+[INFO] Paragraph 1066: gold location "gill" not included in candidate set.
+[INFO] Paragraph 1066: gold location "spore" not included in candidate set.
+[INFO] Paragraph 1066: gold location "ground" not included in candidate set.
+Paragraph 1073: 
+Location candidate set:  set()
+[INFO] Paragraph 1073: gold location "sky" not included in candidate set.
+[INFO] Paragraph 1073: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 1073: gold location "bottom of the cloud" not included in candidate set.
+[INFO] Paragraph 1073: gold location "top" not included in candidate set.
+Paragraph 1075: 
+Location candidate set:  set()
+[INFO] Paragraph 1075: gold location "cloud" not included in candidate set.
+[INFO] Paragraph 1075: gold location "ground" not included in candidate set.
+[INFO] Paragraph 1075: gold location "lightning" not included in candidate set.
+Paragraph 1077: 
+Location candidate set:  set()
+[INFO] Paragraph 1077: gold location "dna" not included in candidate set.
+Paragraph 1078: 
+Location candidate set:  set()
+[INFO] Paragraph 1078: gold location "dna" not included in candidate set.
+Paragraph 1080: 
+Location candidate set:  set()
+[INFO] Paragraph 1080: gold location "coal - fire steam station" not included in candidate set.
+[INFO] Paragraph 1080: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 1080: gold location "pipe" not included in candidate set.
+[INFO] Paragraph 1080: gold location "turn mechanism" not included in candidate set.
+[WARNING] Paragraph 1080: location "turn mechanism" is not a span in paragraph.
+[WARNING] Paragraph 1080: location "turn mechanism" is not a span in paragraph.
+[WARNING] Paragraph 1080: location "turn mechanism" is not a span in paragraph.
+[WARNING] Paragraph 1080: location "turn mechanism" is not a span in paragraph.
+Paragraph 1081: 
+Location candidate set:  set()
+[INFO] Paragraph 1081: gold location "boiler" not included in candidate set.
+[INFO] Paragraph 1081: gold location "turbine" not included in candidate set.
+[INFO] Paragraph 1081: gold location "power plant" not included in candidate set.
+[WARNING] Paragraph 1081: location "power plant" is not a span in paragraph.
+[WARNING] Paragraph 1081: location "power plant" is not a span in paragraph.
+[WARNING] Paragraph 1081: location "power plant" is not a span in paragraph.
+[WARNING] Paragraph 1081: location "power plant" is not a span in paragraph.
+[WARNING] Paragraph 1081: location "power plant" is not a span in paragraph.
+[WARNING] Paragraph 1081: location "power plant" is not a span in paragraph.
+Paragraph 1083: 
+Location candidate set:  set()
+[INFO] Paragraph 1083: gold location "hole" not included in candidate set.
+[INFO] Paragraph 1083: gold location "dirt" not included in candidate set.
+[INFO] Paragraph 1083: gold location "vine" not included in candidate set.
+Paragraph 1084: 
+Location candidate set:  set()
+[INFO] Paragraph 1084: gold location "soil" not included in candidate set.
+[INFO] Paragraph 1084: gold location "plant" not included in candidate set.
+Paragraph 1085: 
+Location candidate set:  set()
+[INFO] Paragraph 1085: gold location "campsite" not included in candidate set.
+[INFO] Paragraph 1085: gold location "fire" not included in candidate set.
+[INFO] Paragraph 1085: gold location "fire pit" not included in candidate set.
+Paragraph 1086: 
+Location candidate set:  set()
+[INFO] Paragraph 1086: gold location "wilderness area" not included in candidate set.
+[INFO] Paragraph 1086: gold location "tent" not included in candidate set.
+Paragraph 1087: 
+Location candidate set:  set()
+[INFO] Paragraph 1087: gold location "car" not included in candidate set.
+[INFO] Paragraph 1087: gold location "camping spot" not included in candidate set.
+Paragraph 1091: 
+Location candidate set:  set()
+[INFO] Paragraph 1091: gold location "cake" not included in candidate set.
+Paragraph 1094: 
+Location candidate set:  set()
+Paragraph 1095: 
+Location candidate set:  set()
+[INFO] Paragraph 1095: gold location "space" not included in candidate set.
+[INFO] Paragraph 1095: gold location "star" not included in candidate set.
+Paragraph 1096: 
+Location candidate set:  set()
+Paragraph 1099: 
+Location candidate set:  set()
+[INFO] Paragraph 1099: gold location "vaccine" not included in candidate set.
+[INFO] Paragraph 1099: gold location "body" not included in candidate set.
+Paragraph 1265: 
+Location candidate set:  set()
+[INFO] Paragraph 1265: gold location "bird" not included in candidate set.
+[INFO] Paragraph 1265: gold location "tree" not included in candidate set.
+[INFO] Paragraph 1265: gold location "nest" not included in candidate set.
+Paragraph 1266: 
+Location candidate set:  set()
+[INFO] Paragraph 1266: gold location "support branch" not included in candidate set.
+[INFO] Paragraph 1266: gold location "stick" not included in candidate set.
+[INFO] Paragraph 1266: gold location "stick and grass" not included in candidate set.
+[INFO] Paragraph 1266: gold location "tree" not included in candidate set.
+Paragraph 1273: 
+Location candidate set:  set()
+[INFO] Paragraph 1273: gold location "flowering plant" not included in candidate set.
+[INFO] Paragraph 1273: gold location "insect ot bird" not included in candidate set.
+[INFO] Paragraph 1273: gold location "new plant" not included in candidate set.
+Paragraph 1290: 
+Location candidate set:  set()
+[INFO] Paragraph 1290: gold location "griddle" not included in candidate set.
+[INFO] Paragraph 1290: gold location "batter" not included in candidate set.
+Paragraph 1291: 
+Location candidate set:  set()
+[INFO] Paragraph 1291: gold location "bowl" not included in candidate set.
+[INFO] Paragraph 1291: gold location "griddle" not included in candidate set.
+Paragraph 1293: 
+Location candidate set:  set()
+[INFO] Paragraph 1293: gold location "carafe" not included in candidate set.
+[INFO] Paragraph 1293: gold location "machine" not included in candidate set.
+[INFO] Paragraph 1293: gold location "ground" not included in candidate set.
+[INFO] Paragraph 1293: gold location "grinder" not included in candidate set.
+[INFO] Paragraph 1293: gold location "filter" not included in candidate set.
+Paragraph 1294: 
+Location candidate set:  set()
+[INFO] Paragraph 1294: gold location "coffee pot" not included in candidate set.
+[INFO] Paragraph 1294: gold location "well of the machine" not included in candidate set.
+[INFO] Paragraph 1294: gold location "ground coffee" not included in candidate set.
+[INFO] Paragraph 1294: gold location "pot" not included in candidate set.
+[INFO] Paragraph 1294: gold location "filter" not included in candidate set.
+Paragraph 1295: 
+Location candidate set:  set()
+[INFO] Paragraph 1295: gold location "pot" not included in candidate set.
+[INFO] Paragraph 1295: gold location "lid" not included in candidate set.
+[INFO] Paragraph 1295: gold location "second pot" not included in candidate set.
+Paragraph 1298: 
+Location candidate set:  set()
+[INFO] Paragraph 1298: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 1298: gold location "blood" not included in candidate set.
+[INFO] Paragraph 1298: gold location "ureter" not included in candidate set.
+Paragraph 1299: 
+Location candidate set:  set()
+[INFO] Paragraph 1299: gold location "kidney" not included in candidate set.
+[INFO] Paragraph 1299: gold location "neophron" not included in candidate set.
+[INFO] Paragraph 1299: gold location "bladder" not included in candidate set.
